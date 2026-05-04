@@ -3,6 +3,7 @@ name: Nightly BBC6 Scraper
 on:
   schedule:
     - cron: '58 22 * * *'  # 22:58 UTC = 23:58 Irish Summer Time
+  workflow_dispatch:   #enables manual runs
 
 jobs:
   run-script:
