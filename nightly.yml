@@ -2,7 +2,7 @@ name: Nightly Python Script
 
 on:
   schedule:
-    - cron: '58 23 * * *'   # Runs at 23:58 every night (UTC)
+    - cron: '58 22 * * *'   # Runs at 23:58 every night (UTC)
 
 jobs:
   run-script:
