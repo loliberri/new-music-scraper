@@ -7,8 +7,8 @@ from datetime import date
 from bbc6_scraper import scrape_bbc6_playlist
 from deezer_lookup import search_deezer_track
 
-# Adjust this to your real vault path:
-VAULT_ROOT = r"C:\Users\becca\Documents\Brain Farts\Becca's Personal Shit\Music"
+# Output directory — writes into the repo's output/ folder on GitHub Actions
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output")
 MASTER_NOTE_NAME = "BBC6 All.md"
 
 
@@ -17,10 +17,8 @@ def append_track_to_master_note(track: dict):
     Append a track to a single master note (BBC6 All) as a table row,
     avoiding duplicates based on artist+title.
     """
-    music_dir = os.path.join(VAULT_ROOT, "Music")
-    os.makedirs(music_dir, exist_ok=True)
-
-    path = os.path.join(music_dir, MASTER_NOTE_NAME)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    path = os.path.join(OUTPUT_DIR, MASTER_NOTE_NAME)
 
     key = f"{track['artist']}|{track['title']}".lower().strip()
 
@@ -73,11 +71,9 @@ def append_track_to_master_note(track: dict):
 def run_daily():
     """
     Daily mode: scrape BBC6, look up Deezer, update master note.
-    (What you already have working.)
     """
-    music_dir = os.path.join(VAULT_ROOT, "Music")
-    os.makedirs(music_dir, exist_ok=True)
-    log_path = os.path.join(music_dir, "bbc6_log.txt")
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    log_path = os.path.join(OUTPUT_DIR, "bbc6_log.txt")
 
     with open(log_path, "a", encoding="utf-8") as log:
         log.write("Script started (daily)\n")
@@ -134,8 +130,7 @@ def export_weekly_csv():
     Weekly mode: read BBC6 All.md table and export a CSV named
     'Music - FIRST_DATE.csv', where FIRST_DATE is the earliest date in the table.
     """
-    music_dir = os.path.join(VAULT_ROOT, "Music")
-    path = os.path.join(music_dir, MASTER_NOTE_NAME)
+    path = os.path.join(OUTPUT_DIR, MASTER_NOTE_NAME)
 
     if not os.path.exists(path):
         print("Master note does not exist yet; nothing to export.")
@@ -177,8 +172,6 @@ def export_weekly_csv():
         print("No rows found in master note; nothing to export.")
         return
 
-    # Find earliest date in the table
-    # Dates are in ISO format, so lexical min works, but be safe and parse.
     parsed_dates = []
     for d in dates:
         try:
@@ -194,7 +187,7 @@ def export_weekly_csv():
         first_date_str = first_date.isoformat()
 
     csv_name = f"Music - {first_date_str}.csv"
-    csv_path = os.path.join(music_dir, csv_name)
+    csv_path = os.path.join(OUTPUT_DIR, csv_name)
 
     with open(csv_path, "w", encoding="utf-8", newline="") as csvfile:
         writer = csv.writer(csvfile)
