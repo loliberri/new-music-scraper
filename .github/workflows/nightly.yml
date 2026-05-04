@@ -1,3 +1,4 @@
+# BBC6 scraper
 name: Nightly BBC6 Scraper
 
 on:
@@ -7,6 +8,9 @@ on:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
 
 jobs:
   run-script:
