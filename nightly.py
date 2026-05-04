@@ -2,8 +2,11 @@ name: Nightly BBC6 Scraper
 
 on:
   schedule:
-    - cron: '58 22 * * *'  # 22:58 UTC = 23:58 Irish Summer Time
-  workflow_dispatch:   #enables manual runs
+    - cron: '58 22 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← fixes the Node.js warning
 
 jobs:
   run-script:
@@ -24,7 +27,6 @@ jobs:
       - name: Run script
         run: python main.py
 
-      # --- NEW: saves the output files back into your repo each night ---
       - name: Commit output files
         run: |
           git config user.name "github-actions[bot]"
