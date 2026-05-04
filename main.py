@@ -1,3 +1,4 @@
+$ cat << 'EOF' > main.py
 import os
 import csv
 from time import sleep
@@ -6,8 +7,8 @@ from datetime import date
 from bbc6_scraper import scrape_bbc6_playlist
 from deezer_lookup import search_deezer_track
 
-# Adjust this to your real vault path:
-VAULT_ROOT = r"C:\Users\becca\Documents\Brain Farts\Becca's Personal Shit\Music"
+# Output folder — writes to an 'output' folder inside your GitHub repo
+OUTPUT_DIR = "output"
 MASTER_NOTE_NAME = "BBC6 All.md"
 
 
@@ -16,10 +17,8 @@ def append_track_to_master_note(track: dict):
     Append a track to a single master note (BBC6 All) as a table row,
     avoiding duplicates based on artist+title.
     """
-    music_dir = os.path.join(VAULT_ROOT, "Music")
-    os.makedirs(music_dir, exist_ok=True)
-
-    path = os.path.join(music_dir, MASTER_NOTE_NAME)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    path = os.path.join(OUTPUT_DIR, MASTER_NOTE_NAME)
 
     key = f"{track['artist']}|{track['title']}".lower().strip()
 
@@ -70,10 +69,8 @@ def append_track_to_master_note(track: dict):
 
 
 def main():
-    # Simple log to see if this script is running and where it's writing
-    music_dir = os.path.join(VAULT_ROOT, "Music")
-    os.makedirs(music_dir, exist_ok=True)
-    log_path = os.path.join(music_dir, "bbc6_log.txt")
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    log_path = os.path.join(OUTPUT_DIR, "bbc6_log.txt")
 
     with open(log_path, "a", encoding="utf-8") as log:
         log.write("Script started\n")
@@ -123,7 +120,7 @@ def main():
         )
 
     # Write/update CSV with all enriched tracks
-    csv_path = os.path.join(music_dir, "bbc6_all.csv")
+    csv_path = os.path.join(OUTPUT_DIR, "bbc6_all.csv")
     with open(csv_path, "w", encoding="utf-8", newline="") as csvfile:
         writer = csv.writer(csvfile)
         # header
@@ -146,3 +143,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+EOF
+echo "Done"
