@@ -4,6 +4,7 @@ import csv
 import sys
 from time import sleep
 from datetime import date
+import openpyxl
 
 #importing files
 from bbc6_scraper import scrape_bbc6_playlist
@@ -230,22 +231,16 @@ def export_weekly_csv():
     csv_path = os.path.join(OUTPUT_DIR, csv_name)
 
     #creating csv
-    with open(csv_path, "w", encoding="utf-8", newline="") as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(["date", "time", "artist", "title", "genre", "deezer_link"])
-        for r in rows:
-            writer.writerow(
-                [
-                    r["date"],
-                    r["time"],
-                    r["artist"],
-                    r["title"],
-                    r["genre"],
-                    r["deezer_link"],
-                ]
-            )
-
-    print(f"Weekly CSV written to: {csv_path}")
+    xlsx_name = f"Music - {first_date_str}.xlsx"
+    xlsx_path = os.path.join(OUTPUT_DIR, xlsx_name)
+    
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.append(["date", "time", "artist", "title", "genre", "deezer_link"])
+    for r in rows:
+        ws.append([r["date"], r["time"], r["artist"], r["title"], r["genre"], r["deezer_link"]])
+    wb.save(xlsx_path)
+    print(f"Excel file written to: {xlsx_path}")
 
 #instruction to run once weekly, otherwise run daily
 if __name__ == "__main__":
