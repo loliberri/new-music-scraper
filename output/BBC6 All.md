@@ -287,3 +287,14 @@ source: BBC Radio 6
 | 2026-05-05 | 00:11 | Darondo | Didn't I | Unknown | https://www.deezer.com/track/1733903657 |
 | 2026-05-05 | 00:07 | Coi Leray | Players | Unknown | https://www.deezer.com/track/2032141427 |
 | 2026-05-05 | 00:00 | Warpaint | I'll Start Believing | Unknown | https://www.deezer.com/track/96983378 |
+| 2026-05-05 | 14:12 | Graham Coxon | Billy Says | Unknown | https://www.deezer.com/track/3919306221 |
+| 2026-05-05 | 14:07 | Cyn Cwsg | Megan Plis | Unknown | https://www.deezer.com/track/3965265981 |
+| 2026-05-05 | 14:00 | The Cramps | You Got Good Taste | Unknown | https://www.deezer.com/track/93901862 |
+| 2026-05-05 | 13:50 | Can | Father Cannot Yell | Unknown | https://www.deezer.com/track/75457550 |
+| 2026-05-05 | 13:45 | Season 2 | Becomes A Dream | Unknown | https://www.deezer.com/track/3778683432 |
+| 2026-05-05 | 13:41 | Josef K | Radio Drill Time | Unknown | https://www.deezer.com/track/78865878 |
+| 2026-05-05 | 13:36 | Jon Spencer | Knock 'Em Out | Unknown | https://www.deezer.com/track/3926393011 |
+| 2026-05-05 | 12:48 | Tara Clerkin Trio | Silently | Unknown | https://www.deezer.com/track/3882090841 |
+| 2026-05-05 | 12:45 | Hannah Cohen | Golden Chain | Unknown | https://www.deezer.com/track/3941509751 |
+| 2026-05-05 | 12:41 | Greg Mendez | No Evil | Unknown | https://www.deezer.com/track/3921106601 |
+| 2026-05-05 | 12:37 | Zoh Amba | Eyes Full | Unknown | https://www.deezer.com/track/3956957011 |
