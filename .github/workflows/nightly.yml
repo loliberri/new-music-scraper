@@ -29,16 +29,15 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install requests beautifulsoup4 httpx lxml
+          python -m pip install requests beautifulsoup4 httpx lxml openpyxl
 
       - name: Run script
         run: python main.py
 
       - name: Commit output files
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git diff --cached --quiet || git commit -m "Nightly update: $(date -u +'%Y-%m-%d')"
-          git fetch origin
-          git push origin HEAD:main --force-with-lease
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Nightly update: ${{ github.run_id }}"
+          file_pattern: output/
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
