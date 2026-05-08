@@ -614,3 +614,152 @@ source: BBC Radio 6
 | 2026-05-07 | 00:34 | The Cribs | Come On, Be A No-One | Unknown | https://www.deezer.com/track/30781481 |
 | 2026-05-07 | 00:26 | Anna Smyrk | Crying in an Internet Cafe | Unknown | https://www.deezer.com/track/3770500962 |
 | 2026-05-07 | 00:00 | Ash | Girl From Mars | Unknown | https://www.deezer.com/track/3773634912 |
+| 2026-05-08 | Live | james K | Ultra Facial! | Unknown | https://www.deezer.com/track/1489722222 |
+| 2026-05-08 | 19:37 | Daphni | Sad Piano House | Unknown | https://www.deezer.com/track/3631235012 |
+| 2026-05-08 | 19:32 | Nabihah Iqbal | Gentle Heart | Unknown | https://www.deezer.com/track/2171912797 |
+| 2026-05-08 | 19:30 | System Olympia | BABE | Unknown | https://www.deezer.com/track/3818195061 |
+| 2026-05-08 | 19:27 | Crazy P | Like A Fool | Unknown | https://www.deezer.com/track/98845938 |
+| 2026-05-08 | 19:25 | Four Tet | Baby | Unknown | https://www.deezer.com/track/3936228341 |
+| 2026-05-08 | 19:18 | Floating Points | Sea-Watch | Unknown | https://www.deezer.com/track/763460262 |
+| 2026-05-08 | 19:16 | Bicep | Atlas | Unknown | https://www.deezer.com/track/1101165382 |
+| 2026-05-08 | 19:11 | Laurence Guy | Saw You for the First Time | Unknown | https://www.deezer.com/track/3575504231 |
+| 2026-05-08 | 19:08 | Joy Orbison & Léa Sen | Better | Unknown | https://www.deezer.com/track/1441790122 |
+| 2026-05-08 | 19:06 | Kelly Lee Owens | Time To | Unknown | https://www.deezer.com/track/2883993252 |
+| 2026-05-08 | 19:01 | Orbital | Halcyon and On and On | Unknown | https://www.deezer.com/track/1724869067 |
+| 2026-05-08 | 18:48 | Michael James | Caffeine | Unknown | https://www.deezer.com/track/2334574635 |
+| 2026-05-08 | 18:29 | King Kooba | You're (So Fine) | Unknown | https://www.deezer.com/track/12263166 |
+| 2026-05-08 | 18:15 | DJ Split | The Flower (Basement of Love Mix) | Unknown | https://www.deezer.com/track/3733152012 |
+| 2026-05-08 | 18:10 | Dav | Messmaker | Unknown | https://www.deezer.com/track/65250543 |
+| 2026-05-08 | 17:58 | The White Stripes | Jolene (live Under Blackpool Lights) | Unknown | https://www.deezer.com/track/1164738362 |
+| 2026-05-08 | 17:55 | Silver Jews | Random Rules | Unknown | https://www.deezer.com/track/479827782 |
+| 2026-05-08 | 17:51 | Mac DeMarco | Out Of My Head | Unknown | https://www.deezer.com/track/1097261652 |
+| 2026-05-08 | 17:46 | Japanese Breakfast | Kokomo, IN | Unknown | https://www.deezer.com/track/1257797162 |
+| 2026-05-08 | 17:42 | Big Thief | Vampire Empire | Unknown | https://www.deezer.com/track/2421606815 |
+| 2026-05-08 | 17:40 | Lambchop | Up With People | Unknown | https://www.deezer.com/track/3551281991 |
+| 2026-05-08 | 17:38 | Meat Puppets | Up on the Sun | Unknown | https://www.deezer.com/track/12516354 |
+| 2026-05-08 | 17:29 | CMAT | I Wanna Be a Cowboy, Baby! | Unknown | https://www.deezer.com/track/1875454887 |
+| 2026-05-08 | 17:26 | Wilco & Billy Bragg | California Stars | Unknown | https://www.deezer.com/track/2217004687 |
+| 2026-05-08 | 17:22 | The Shins | Gone For Good | Unknown | https://www.deezer.com/track/2459695005 |
+| 2026-05-08 | 17:19 | Alabama Shakes | Hold On | Unknown | https://www.deezer.com/track/1981014397 |
+| 2026-05-08 | 17:12 | Pavement | Father To A Sister Of Thought | Unknown | https://www.deezer.com/track/105280968 |
+| 2026-05-08 | 17:09 | Wednesday | Elderberry Wine | Unknown | https://www.deezer.com/track/3319539481 |
+| 2026-05-08 | 17:04 | Beck | Sissyneck | Unknown | https://www.deezer.com/track/971422922 |
+| 2026-05-08 | 17:01 | Kings of Leon | California Waiting | Unknown | https://www.deezer.com/track/552795612 |
+| 2026-05-08 | 16:58 | Super Furry Animals | Ohio Heat | Unknown | https://www.deezer.com/track/3805799772 |
+| 2026-05-08 | 16:53 | Goat Girl | Sad Cowboy | Unknown | https://www.deezer.com/track/1080089122 |
+| 2026-05-08 | 16:49 | The Charlatans | North Country Boy | Unknown | https://www.deezer.com/track/620486542 |
+| 2026-05-08 | 16:46 | Styrofoam Winos | Next Thing | Unknown | https://www.deezer.com/track/3871545731 |
+| 2026-05-08 | 16:42 | Westside Cowboy | Alright Alright Alright | Unknown | https://www.deezer.com/track/3418388371 |
+| 2026-05-08 | 16:39 | Divorce | Antarctica | Unknown | https://www.deezer.com/track/3515450571 |
+| 2026-05-08 | 16:35 | Jagwar Ma | Come Save Me | Unknown | https://www.deezer.com/track/3877003401 |
+| 2026-05-08 | 16:31 | Beck | Loser | Unknown | https://www.deezer.com/track/422033092 |
+| 2026-05-08 | 16:28 | JJerome87 | Brush Me Like A Horse | Unknown | https://www.deezer.com/track/3787881062 |
+| 2026-05-08 | 16:19 | The War on Drugs | Holding On | Unknown | https://www.deezer.com/track/395723742 |
+| 2026-05-08 | 16:12 | CMAT | Stay for Something | Unknown | https://www.deezer.com/track/2401014305 |
+| 2026-05-08 | 16:01 | Tame Impala | Solitude Is Bliss | Unknown | https://www.deezer.com/track/572099612 |
+| 2026-05-08 | 15:50 | Stevie Wonder | All Day Sucker (Album Version) | Unknown | https://www.deezer.com/track/608696412 |
+| 2026-05-08 | 15:46 | Stevie Wonder | All I Do | Unknown | https://www.deezer.com/track/2314443 |
+| 2026-05-08 | 15:38 | Stevie Wonder | Love's In Need Of Love Today | Unknown | https://www.deezer.com/track/676011572 |
+| 2026-05-08 | 15:28 | Black Uhuru | Shine Eye Gal | Unknown | https://www.deezer.com/track/822651332 |
+| 2026-05-08 | 15:20 | Harvey Mason | On And On | Unknown | https://www.deezer.com/track/493135942 |
+| 2026-05-08 | 15:17 | Voilaaa & Pat Kalla | Le Disco Des Capitales | Unknown | https://www.deezer.com/track/509752962 |
+| 2026-05-08 | 15:13 | Annahstasia | Satisfy Me | Unknown | https://www.deezer.com/track/3245221851 |
+| 2026-05-08 | 15:05 | Say She She | C'est Si Bon | Unknown | https://www.deezer.com/track/2353834365 |
+| 2026-05-08 | 14:52 | Gorillaz | Strobelite (feat. Peven Everett) | Unknown | https://www.deezer.com/track/354195891 |
+| 2026-05-08 | 14:44 | Laid Back | White Horse | Unknown | https://www.deezer.com/track/3528855 |
+| 2026-05-08 | 14:30 | Nina Simone | Funkier Than A Mosquito's Tweeter | Unknown | https://www.deezer.com/track/66789278 |
+| 2026-05-08 | 14:24 | Commodores | Brick House (12\" Mix) | Unknown | https://www.deezer.com/track/2179876 |
+| 2026-05-08 | 14:20 | Khruangbin | Evan Finds the Third Room | Unknown | https://www.deezer.com/track/445086962 |
+| 2026-05-08 | 14:14 | Frankie Knuckles | Your Love | Unknown | https://www.deezer.com/track/1600906202 |
+| 2026-05-08 | 14:05 | Musique | Keep On Jumpin' | Unknown | https://www.deezer.com/track/68075779 |
+| 2026-05-08 | 14:03 | M-Beat, Nazlyn | Sweet Love | Unknown | https://www.deezer.com/track/4481742 |
+| 2026-05-08 | 13:55 | Basement Jaxx | Where's Your Head At | Unknown | https://www.deezer.com/track/2661882 |
+| 2026-05-08 | 13:52 | Sampa the Great | Final Form | Unknown | https://www.deezer.com/track/680997892 |
+| 2026-05-08 | 13:48 | Gwen Guthrie | Peanut Butter (Larry Levan Mix) | Unknown | https://www.deezer.com/track/97925716 |
+| 2026-05-08 | 13:45 | The Coral | Dreaming Of You | Unknown | https://www.deezer.com/track/119871084 |
+| 2026-05-08 | 13:41 | 808 State | Pacific 707 | Unknown | https://www.deezer.com/track/478179352 |
+| 2026-05-08 | 13:34 | Funkadelic | One Nation Under A Groove | Unknown | https://www.deezer.com/track/100492764 |
+| 2026-05-08 | 13:19 | KNEECAP | Liars Tale | Unknown | https://www.deezer.com/track/3722704482 |
+| 2026-05-08 | 13:06 | KNEECAP | Irish Goodbye (feat. Kae Tempest) | Unknown | https://www.deezer.com/track/3722704572 |
+| 2026-05-08 | 12:39 | KNEECAP | Smugglers & Scholars | Unknown | https://www.deezer.com/track/3722704452 |
+| 2026-05-08 | 12:33 | Best Coast | Boyfriend | Unknown | https://www.deezer.com/track/3945005191 |
+| 2026-05-08 | 12:21 | Mike D | Switch Up | Unknown | https://www.deezer.com/track/4001466011 |
+| 2026-05-08 | 12:17 | EELS | I Like Birds | Unknown | https://www.deezer.com/track/2075697017 |
+| 2026-05-08 | 12:14 | Jungle | Back On 74 | Unknown | https://www.deezer.com/track/2181330357 |
+| 2026-05-08 | 12:10 | Fat Dog | King of the Slugs | Unknown | https://www.deezer.com/track/2724694661 |
+| 2026-05-08 | 12:06 | Björk | Human Behaviour | Unknown | https://www.deezer.com/track/14611450 |
+| 2026-05-08 | 12:02 | Sigur Rós | Hoppípolla | Unknown | https://www.deezer.com/track/607726822 |
+| 2026-05-08 | 11:59 | The Darling Buds | Hit The Ground | Unknown | https://www.deezer.com/track/5318731 |
+| 2026-05-08 | 11:55 | Night Swimming | Poison Berry | Unknown | https://www.deezer.com/track/3776350942 |
+| 2026-05-08 | 11:46 | Los Campesinos! | Romance Is Boring | Unknown | https://www.deezer.com/track/1550718792 |
+| 2026-05-08 | 11:34 | Aretha Franklin | The House That Jack Built | Unknown | https://www.deezer.com/track/2133625 |
+| 2026-05-08 | 11:23 | Phoenix | Trying To Be Cool | Unknown | https://www.deezer.com/track/3025925711 |
+| 2026-05-08 | 11:04 | The Velvet Underground | Rock & Roll | Unknown | https://www.deezer.com/track/109844090 |
+| 2026-05-08 | 11:00 | A Tribe Called Quest | Can I Kick It? | Unknown | https://www.deezer.com/track/3311319751 |
+| 2026-05-08 | 10:57 | The Libertines | Don't Look Back Into the Sun | Unknown | https://www.deezer.com/track/945223 |
+| 2026-05-08 | 10:54 | Darwin Deez | Constellations | Unknown | https://www.deezer.com/track/771179202 |
+| 2026-05-08 | 10:46 | Jayda G | Both Of Us | Unknown | https://www.deezer.com/track/959942152 |
+| 2026-05-08 | 10:42 | LEMONSUCKR | Stain | Unknown | https://www.deezer.com/track/3960912221 |
+| 2026-05-08 | 10:34 | Tame Impala | Apocalypse Dreams | Unknown | https://www.deezer.com/track/60765503 |
+| 2026-05-08 | 10:24 | The Prodigy | Everybody in the Place | Unknown | https://www.deezer.com/track/1115341512 |
+| 2026-05-08 | 10:17 | Gloria Jones | Tainted Love | Unknown | https://www.deezer.com/track/3475976 |
+| 2026-05-08 | 10:13 | Pulp | Babies | Unknown | https://www.deezer.com/track/909996 |
+| 2026-05-08 | 10:10 | Arctic Monkeys | I Bet You Look Good On The Dancefloor | Unknown | https://www.deezer.com/track/4315310 |
+| 2026-05-08 | 10:00 | Chaka Khan | Like Sugar | Unknown | https://www.deezer.com/track/630799822 |
+| 2026-05-08 | 09:54 | Death Cab for Cutie | The Sound Of Settling | Unknown | https://www.deezer.com/track/71511140 |
+| 2026-05-08 | 09:47 | Patti Jo | Make Me Believe In You | Unknown | https://www.deezer.com/track/732842512 |
+| 2026-05-08 | 09:33 | Big Thief | Shark Smile | Unknown | https://www.deezer.com/track/2840205812 |
+| 2026-05-08 | 08:45 | The Cardigans | Lovefool | Unknown | https://www.deezer.com/track/910474 |
+| 2026-05-08 | 08:34 | Empire of the Sun | Walking On A Dream | Unknown | https://www.deezer.com/track/4286051 |
+| 2026-05-08 | 08:27 | Dirty Projectors | Overlord | Unknown | https://www.deezer.com/track/900951542 |
+| 2026-05-08 | 08:13 | Mogwai | Glasgow Mega-Snake | Unknown | https://www.deezer.com/track/3836806 |
+| 2026-05-08 | 08:10 | Yeah Yeah Yeahs | Gold Lion | Unknown | https://www.deezer.com/track/24218911 |
+| 2026-05-08 | 08:00 | The Sugarcubes | Hit | Unknown | https://www.deezer.com/track/14639484 |
+| 2026-05-08 | 07:58 | Blackalicious | Alphabet Aerobics | Unknown | https://www.deezer.com/track/12191213 |
+| 2026-05-08 | 07:34 | Janelle Monáe | Tightrope (feat. Big Boi) | Unknown | https://www.deezer.com/track/6030261 |
+| 2026-05-08 | 07:24 | New Order | Age Of Consent | Unknown | https://www.deezer.com/track/107907786 |
+| 2026-05-08 | 07:20 | The Charlatans | The Only One I Know | Unknown | https://www.deezer.com/track/5867013 |
+| 2026-05-08 | 07:17 | The Smiths | Hand In Glove | Unknown | https://www.deezer.com/track/13785961 |
+| 2026-05-08 | 07:02 | Le Tigre | TKO | Unknown | https://www.deezer.com/track/4681467 |
+| 2026-05-08 | 06:45 | Royel Otis | moody | Unknown | https://www.deezer.com/track/3349000671 |
+| 2026-05-08 | 06:41 | Bel Cobain | Mind is a Dancer | Unknown | https://www.deezer.com/track/3698469492 |
+| 2026-05-08 | 06:34 | TLC | No Scrubs | Unknown | https://www.deezer.com/track/1075781 |
+| 2026-05-08 | 06:19 | Say She She | Cut & Rewind | Unknown | https://www.deezer.com/track/3378108841 |
+| 2026-05-08 | 06:17 | La Sécurité | Snack City | Unknown | https://www.deezer.com/track/3862396131 |
+| 2026-05-08 | 06:03 | Fatboy Slim | Sunset (Bird Of Prey) | Unknown | https://www.deezer.com/track/15688542 |
+| 2026-05-08 | 05:59 | Francis Bebey | Forest Nativity | Unknown | https://www.deezer.com/track/2543691661 |
+| 2026-05-08 | 05:54 | Animal Collective | Amazonawana / Anaconda Opportunity | Unknown | https://www.deezer.com/track/353110571 |
+| 2026-05-08 | 05:46 | Kate Bush | Aerial | Unknown | https://www.deezer.com/track/2175447557 |
+| 2026-05-08 | 05:43 | The Durutti Column | Sketch for Summer | Unknown | https://www.deezer.com/track/432145262 |
+| 2026-05-08 | 05:40 | Cosmo Sheldrake | Cuckoo Song | Unknown | https://www.deezer.com/track/2111535827 |
+| 2026-05-08 | 05:27 | Lauren Auder | praxis | Unknown | https://www.deezer.com/track/3560182991 |
+| 2026-05-08 | 05:21 | Florence the Machine | Kiss With A Fist | Unknown | https://www.deezer.com/track/7561776 |
+| 2026-05-08 | 05:01 | Maurice Joshua | This Is Acid | Unknown | https://www.deezer.com/track/12894123 |
+| 2026-05-08 | 04:34 | Tensnake | Coma Cat | Unknown | https://www.deezer.com/track/3155507821 |
+| 2026-05-08 | 04:15 | Madelline | Expiration Dating | Unknown | https://www.deezer.com/track/3334763751 |
+| 2026-05-08 | 04:01 | Angélica Garcia | Gemini | Unknown | https://www.deezer.com/track/3124676711 |
+| 2026-05-08 | 03:26 | Étienne de Crécy | Am I Wrong | Unknown | https://www.deezer.com/track/2553669 |
+| 2026-05-08 | 03:21 | LFO | Freak | Unknown | https://www.deezer.com/track/29394021 |
+| 2026-05-08 | 03:18 | Carl Cox | I Want You (Forever) | Unknown | https://www.deezer.com/track/1505204712 |
+| 2026-05-08 | 03:12 | Charles B. | Lack Of Love | Unknown | https://www.deezer.com/track/536506682 |
+| 2026-05-08 | 03:08 | Afrikan Boy | Hit 'Em Up | Unknown | https://www.deezer.com/track/2019646047 |
+| 2026-05-08 | 03:02 | MJ Cole | Sincere | Unknown | https://www.deezer.com/track/579927262 |
+| 2026-05-08 | 02:54 | Gat Décor | Passion | Unknown | https://www.deezer.com/track/89381103 |
+| 2026-05-08 | 02:50 | Cornershop | Brimful of Asha | Unknown | https://www.deezer.com/track/15686804 |
+| 2026-05-08 | 02:47 | The Supremes | Stoned Love | Unknown | https://www.deezer.com/track/1834450237 |
+| 2026-05-08 | 02:42 | The KLF | What Time Is Love? | Unknown | https://www.deezer.com/track/1181472092 |
+| 2026-05-08 | 02:38 | Hercules & Love Affair | Blind | Unknown | https://www.deezer.com/track/3164619 |
+| 2026-05-08 | 02:35 | Alan Braxe & Fred Falke | Intro | Unknown | https://www.deezer.com/track/1702170497 |
+| 2026-05-08 | 02:28 | The Donnas | Take It Off | Unknown | https://www.deezer.com/track/3822563 |
+| 2026-05-08 | 02:18 | Charli xcx | Rock Music | Unknown | https://www.deezer.com/track/4005499231 |
+| 2026-05-08 | 02:12 | Public Enemy | Brothers Gonna Work It Out | Unknown | https://www.deezer.com/track/2120883 |
+| 2026-05-08 | 02:01 | M83 | Reunion | Unknown | https://www.deezer.com/track/75572710 |
+| 2026-05-08 | 01:50 | Gossip | Where The Girls Are | Unknown | https://www.deezer.com/track/30511141 |
+| 2026-05-08 | 01:46 | RY-GUY | Push Me In The Water | Unknown | https://www.deezer.com/track/3890380241 |
+| 2026-05-08 | 01:41 | Eve’s Plum | I Want It All | Unknown | https://www.deezer.com/track/131339658 |
+| 2026-05-08 | 01:36 | Foals | What Went Down | Unknown | https://www.deezer.com/track/1232931722 |
+| 2026-05-08 | 01:10 | Black Sabbath | Paranoid | Unknown | https://www.deezer.com/track/74062292 |
+| 2026-05-08 | 01:02 | Groove Armada | I See You Baby | Unknown | https://www.deezer.com/track/82299576 |
+| 2026-05-08 | 00:53 | Elbow | Grounds For Divorce | Unknown | https://www.deezer.com/track/429945972 |
+| 2026-05-08 | 00:49 | Johnny Marr | Easy Money | Unknown | https://www.deezer.com/track/3803538582 |
+| 2026-05-08 | 00:31 | Primal Scream | Rocks | Unknown | https://www.deezer.com/track/85530824 |
