@@ -1698,3 +1698,99 @@ source: BBC Radio 6
 | 2026-05-15 | 00:12 | Pareidolls | Jessie | Unknown | https://www.deezer.com/track/3917122801 |
 | 2026-05-15 | 00:08 | Sharon Van Etten | Give Out | Unknown | https://www.deezer.com/track/73915551 |
 | 2026-05-15 | 00:01 | Mantronix | King Of The Beats | Unknown | https://www.deezer.com/track/6283574 |
+| 2026-05-16 | 16:32 | Linodnb | Nada Como Você | Unknown | https://www.deezer.com/track/3796267262 |
+| 2026-05-16 | 16:20 | Jam Thieves | Brasilandia | Unknown | https://www.deezer.com/track/1867218257 |
+| 2026-05-16 | 16:09 | DJ Marky & Bungle | Codename: A.1 | Unknown | https://www.deezer.com/track/2338117925 |
+| 2026-05-16 | 16:04 | Total Science & S.P.Y | Double Trouble | Unknown | https://www.deezer.com/track/2259875117 |
+| 2026-05-16 | 15:58 | Calibre & ST Files | STCal Roller | Unknown | https://www.deezer.com/track/82177886 |
+| 2026-05-16 | 15:53 | Artificial Intelligence | The Big Picture | Unknown | https://www.deezer.com/track/1006992892 |
+| 2026-05-16 | 15:49 | Seu Jorge | Chega No Suingue | Unknown | https://www.deezer.com/track/73525853 |
+| 2026-05-16 | 15:44 | Drumagick | Easy Boom | Unknown | https://www.deezer.com/track/385661161 |
+| 2026-05-16 | 15:42 | Trüby Trio | A Go Go (DJ Patife Remix) | Unknown | https://www.deezer.com/track/138296249 |
+| 2026-05-16 | 15:37 | DJ Patife | Enigma | Unknown | https://www.deezer.com/track/135016854 |
+| 2026-05-16 | 15:32 | DJ Patife | Lovin U | Unknown | https://www.deezer.com/track/135016856 |
+| 2026-05-16 | 15:29 | Shy FX | Roll The Dice (feat. Stamina MC & Lily Allen) | Unknown | https://www.deezer.com/track/592352742 |
+| 2026-05-16 | 15:23 | Drumagick | Malandragem | Unknown | https://www.deezer.com/track/775681462 |
+| 2026-05-16 | 15:13 | Marcelinho da Lua & Seu Jorge | Cotidiano | Unknown | https://www.deezer.com/track/96004096 |
+| 2026-05-16 | 15:10 | Azymuth | Laranjeiras (Flytronix's Drum 'n' Bass Mix) | Unknown | https://www.deezer.com/track/107813988 |
+| 2026-05-16 | 14:53 | Goldie | Single Petal of a Rose | Unknown | https://www.deezer.com/track/511684342 |
+| 2026-05-16 | 14:49 | Protoje | Big 45 | Unknown | https://www.deezer.com/track/3828031251 |
+| 2026-05-16 | 14:46 | Yumi and the Weather | Rip Tide | Unknown | https://www.deezer.com/track/3898213741 |
+| 2026-05-16 | 14:43 | WHATMORE | Still Loiteringgg | Unknown | https://www.deezer.com/track/3858226151 |
+| 2026-05-16 | 14:29 | Love Maximum | I've Been Trying | Unknown | https://www.deezer.com/track/79601886 |
+| 2026-05-16 | 14:23 | Kae Tempest | Don't You Ever | Unknown | https://www.deezer.com/track/1705403797 |
+| 2026-05-16 | 14:21 | Marvin Gaye | What's Happening Brother | Unknown | https://www.deezer.com/track/1133408862 |
+| 2026-05-16 | 14:16 | Massive Attack & Tom Waits | Boots On The Ground | Unknown | https://www.deezer.com/track/3908387001 |
+| 2026-05-16 | 14:14 | Hugh Mundell | Run Revolution a Come | Unknown | https://www.deezer.com/track/391088651 |
+| 2026-05-16 | 14:00 | Cornelius | Yumenemi | Unknown | https://www.deezer.com/track/3983604151 |
+| 2026-05-16 | 13:54 | Mr. Williamz & Reggae Roast | Dubplate Daddy | Unknown | https://www.deezer.com/track/3732864852 |
+| 2026-05-16 | 13:51 | Papa Michigan | Style | Unknown | https://www.deezer.com/track/121413864 |
+| 2026-05-16 | 13:48 | Felipe Gordon | Tezeta | Unknown | https://www.deezer.com/track/3940645411 |
+| 2026-05-16 | 13:44 | Naughty by Nature | O.P.P. | Unknown | https://www.deezer.com/track/1584432772 |
+| 2026-05-16 | 13:37 | Moloko | Pure Pleasure Seeker | Unknown | https://www.deezer.com/track/3803017122 |
+| 2026-05-16 | 13:31 | Disgusting Sisters | Weirdo Magnet | Unknown | https://www.deezer.com/track/3908387121 |
+| 2026-05-16 | 13:28 | TOMORA | I Drink The Light | Unknown | https://www.deezer.com/track/3996037401 |
+| 2026-05-16 | 13:19 | Martyn | These Words | Unknown | https://www.deezer.com/track/2512024531 |
+| 2026-05-16 | 13:16 | Buju Banton | Butterflies | Unknown | https://www.deezer.com/track/3945276991 |
+| 2026-05-16 | 13:12 | David Bowie | Let's Dance | Unknown | https://www.deezer.com/track/565656032 |
+| 2026-05-16 | 13:01 | Asian Dub Foundation | Buzzing | Unknown | https://www.deezer.com/track/1763140237 |
+| 2026-05-16 | 09:52 | Yuji Ohno | The Chase | Unknown | https://www.deezer.com/track/2665311132 |
+| 2026-05-16 | 09:50 | Yuji Ohno | Lupin III '78 | Unknown | https://www.deezer.com/track/2524738241 |
+| 2026-05-16 | 09:49 | Yuji Ohno | Love Ballade | Unknown | https://www.deezer.com/track/1591210572 |
+| 2026-05-16 | 09:13 | Solange | Things I Imagined | Unknown | https://www.deezer.com/track/641647262 |
+| 2026-05-16 | 06:59 | Ossie | Hidden Forest | Unknown | https://www.deezer.com/track/3083055891 |
+| 2026-05-16 | 06:57 | ZJ | Body Action | Unknown | https://www.deezer.com/track/4000616261 |
+| 2026-05-16 | 06:55 | DJ Gregory | Attend 1 | Unknown | https://www.deezer.com/track/3155489561 |
+| 2026-05-16 | 06:49 | Blck Mamba | TAKE ME WITH YOU | Unknown | https://www.deezer.com/track/3459637361 |
+| 2026-05-16 | 06:44 | Sam One | Kitale | Unknown | https://www.deezer.com/track/501979462 |
+| 2026-05-16 | 06:35 | Doug Gomez | This Rhythm Is Me And You | Unknown | https://www.deezer.com/track/3472390291 |
+| 2026-05-16 | 06:29 | Esa Williams | Vanguard Drive | Unknown | https://www.deezer.com/track/3605910512 |
+| 2026-05-16 | 06:08 | Esa Williams | Kwanini | Unknown | https://www.deezer.com/track/3605938442 |
+| 2026-05-16 | 05:54 | Runkus | 3310 | Unknown | https://www.deezer.com/track/3348841051 |
+| 2026-05-16 | 05:29 | Charlie Chimi | Échale Candela | Unknown | https://www.deezer.com/track/3389335031 |
+| 2026-05-16 | 05:26 | LOOPCINICO | Curimbóbata | Unknown | https://www.deezer.com/track/104472960 |
+| 2026-05-16 | 05:03 | Buraka Som Sistema | Puro Mambo | Unknown | https://www.deezer.com/track/3864827451 |
+| 2026-05-16 | 04:56 | Kelela | All The Way Down | Unknown | https://www.deezer.com/track/366699281 |
+| 2026-05-16 | 04:50 | The Isley Brothers | Summer Breeze | Unknown | https://www.deezer.com/track/855995 |
+| 2026-05-16 | 04:47 | Skull Snaps | It's A New Day | Unknown | https://www.deezer.com/track/111247622 |
+| 2026-05-16 | 04:45 | The Donays | Devil in His Heart | Unknown | https://www.deezer.com/track/4198597 |
+| 2026-05-16 | 04:36 | Teddy Pendergrass | Love T.K.O. | Unknown | https://www.deezer.com/track/711115672 |
+| 2026-05-16 | 04:33 | Jamie xx | KILL DEM | Unknown | https://www.deezer.com/track/1892750597 |
+| 2026-05-16 | 04:20 | Alicia Keys | You Don't Know My Name | Unknown | https://www.deezer.com/track/629463 |
+| 2026-05-16 | 04:10 | Magazine | Shot By Both Sides | Unknown | https://www.deezer.com/track/3110837 |
+| 2026-05-16 | 04:05 | Martha and the Muffins | Echo Beach | Unknown | https://www.deezer.com/track/3345167571 |
+| 2026-05-16 | 03:59 | Sinéad O’Connor | The Emperor's New Clothes | Unknown | https://www.deezer.com/track/1798617777 |
+| 2026-05-16 | 03:56 | Nina Simone | Rich Girl | Unknown | https://www.deezer.com/track/1028876 |
+| 2026-05-16 | 03:52 | Zapp | Computer Love | Unknown | https://www.deezer.com/track/4288322 |
+| 2026-05-16 | 03:45 | Edwin Hawkins Singers | Oh Happy Day | Unknown | https://www.deezer.com/track/13176492 |
+| 2026-05-16 | 03:41 | The Cardigans | Iron Man | Unknown | https://www.deezer.com/track/623737262 |
+| 2026-05-16 | 03:39 | The Two Lips | kiss goodbye | Unknown | https://www.deezer.com/track/3939708651 |
+| 2026-05-16 | 03:33 | SAULT | Up All Night | Unknown | https://www.deezer.com/track/670509692 |
+| 2026-05-16 | 03:27 | Kelis | Young Fresh N'New | Unknown | https://www.deezer.com/track/948444852 |
+| 2026-05-16 | 03:22 | Talking Heads | Girlfriend Is Better | Unknown | https://www.deezer.com/track/3614311 |
+| 2026-05-16 | 03:19 | Gang of Four | To Hell With Poverty | Unknown | https://www.deezer.com/track/880653342 |
+| 2026-05-16 | 03:13 | Violent Femmes | Add It Up | Unknown | https://www.deezer.com/track/1372756832 |
+| 2026-05-16 | 03:11 | Leikeli47 | Bad Guy | Unknown | https://www.deezer.com/track/3915944521 |
+| 2026-05-16 | 03:04 | Coati Mundi | Que Pasa / Me No Pop I | Unknown | https://www.deezer.com/track/75332453 |
+| 2026-05-16 | 03:02 | MC5 | Kick Out The Jams | Unknown | https://www.deezer.com/track/670838 |
+| 2026-05-16 | 02:51 | Kehlani | Back and Forth (feat. Missy Elliott) | Unknown | https://www.deezer.com/track/3897501831 |
+| 2026-05-16 | 02:48 | Venus & the Flytraps | Worse Together | Unknown | https://www.deezer.com/track/2129206387 |
+| 2026-05-16 | 02:36 | TV Girl | Lovers Rock | Unknown | https://www.deezer.com/track/1751426027 |
+| 2026-05-16 | 02:33 | OutKast | Prototype | Unknown | https://www.deezer.com/track/628265 |
+| 2026-05-16 | 02:27 | Buzzcocks | What Do I Get? | Unknown | https://www.deezer.com/track/376010561 |
+| 2026-05-16 | 02:20 | Patti Smith | Redondo Beach | Unknown | https://www.deezer.com/track/107278736 |
+| 2026-05-16 | 02:08 | Go‐Go’s | This Town | Unknown | https://www.deezer.com/track/1412741422 |
+| 2026-05-16 | 02:04 | Romeo Void | Never Say Never | Unknown | https://www.deezer.com/track/8146658 |
+| 2026-05-16 | 02:00 | Norman Greenbaum | Spirit In The Sky | Unknown | https://www.deezer.com/track/673832662 |
+| 2026-05-16 | 01:57 | Dream Wife | Hey Heartbreaker | Unknown | https://www.deezer.com/track/799241842 |
+| 2026-05-16 | 01:45 | Laufey | Lover Girl | Unknown | https://www.deezer.com/track/3401301081 |
+| 2026-05-16 | 01:38 | Erroll Garner | Teach Me Tonight | Unknown | https://www.deezer.com/track/7225474 |
+| 2026-05-16 | 01:14 | Santigold | Say Aha | Unknown | https://www.deezer.com/track/85440822 |
+| 2026-05-16 | 01:01 | New Order | The Perfect Kiss | Unknown | https://www.deezer.com/track/107750190 |
+| 2026-05-16 | 00:52 | The Beach Boys | I Just Wasn't Made For These Times | Unknown | https://www.deezer.com/track/2263082747 |
+| 2026-05-16 | 00:49 | The Beach Boys | You Still Believe In Me | Unknown | https://www.deezer.com/track/2263082637 |
+| 2026-05-16 | 00:28 | The Cure | In Between Days | Unknown | https://www.deezer.com/track/409670302 |
+| 2026-05-16 | 00:24 | Marine Store Dealer | High Flyers | Unknown | https://www.deezer.com/track/3655835872 |
+| 2026-05-16 | 00:20 | Foreal People | Tango Hustle (Dave Lee Latican Hustle Edit) | Unknown | https://www.deezer.com/track/3919327441 |
+| 2026-05-16 | 00:12 | The Knife | Pass This On | Unknown | https://www.deezer.com/track/1856374127 |
+| 2026-05-16 | 00:00 | Wire | I Am The Fly | Unknown | https://www.deezer.com/track/444231552 |
