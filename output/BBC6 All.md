@@ -4393,3 +4393,132 @@ source: BBC Radio 6
 | 2026-06-06 | 00:20 | Nilüfer Yanya | Call It Love | Unknown | https://www.deezer.com/track/2852496612 |
 | 2026-06-06 | 00:12 | Washed Out | Feel It All Around | Unknown | https://www.deezer.com/track/641606502 |
 | 2026-06-06 | 00:07 | Four Tet | My Angel Rocks Back and Forth | Unknown | https://www.deezer.com/track/1636733702 |
+| 2026-06-07 | 16:43 | Jolie Holland | Wandering Angus | Unknown | https://www.deezer.com/track/378183461 |
+| 2026-06-07 | 16:31 | Simon & Garfunkel | April Come She Will | Unknown | https://www.deezer.com/track/15275128 |
+| 2026-06-07 | 16:28 | Geese | Bow Down | Unknown | https://www.deezer.com/track/3399059281 |
+| 2026-06-07 | 16:22 | The National | The Geese of Beverly Road | Unknown | https://www.deezer.com/track/105427732 |
+| 2026-06-07 | 16:17 | The Kinks | Lola | Unknown | https://www.deezer.com/track/3788403772 |
+| 2026-06-07 | 16:12 | Ramsey Lewis | One, Two, Three | Unknown | https://www.deezer.com/track/1578351 |
+| 2026-06-07 | 16:05 | Curtis Mayfield | Pusherman | Unknown | https://www.deezer.com/track/14640476 |
+| 2026-06-07 | 15:55 | Dexter Wansel | The Sweetest Pain | Unknown | https://www.deezer.com/track/72089154 |
+| 2026-06-07 | 15:53 | Memotone | Time Is Away Theme | Unknown | https://www.deezer.com/track/3350829181 |
+| 2026-06-07 | 15:49 | Memotone | For the Feral | Unknown | https://www.deezer.com/track/3990389031 |
+| 2026-06-07 | 15:28 | Hontatedori | Planets | Unknown | https://www.deezer.com/track/528833341 |
+| 2026-06-07 | 15:19 | Memotone | Warm Shadow | Unknown | https://www.deezer.com/track/3990388981 |
+| 2026-06-07 | 15:08 | aja monet | indigo | Unknown | https://www.deezer.com/track/3779377612 |
+| 2026-06-07 | 15:03 | Marisa Anderson | Rop Koh | Unknown | https://www.deezer.com/track/3818979431 |
+| 2026-06-07 | 15:00 | Curtis Mayfield | Think | Unknown | https://www.deezer.com/track/14640482 |
+| 2026-06-07 | 14:52 | helllhound | here in the valley | Unknown | https://www.deezer.com/track/3913041221 |
+| 2026-06-07 | 14:44 | Jeffrey Silverstein | Coming Back Around | Unknown | https://www.deezer.com/track/3938578611 |
+| 2026-06-07 | 14:36 | Pedro Mizutani | Autent: Eterno Retorno | Unknown | https://www.deezer.com/track/3910625971 |
+| 2026-06-07 | 14:32 | Eliza | Cheddar | Unknown | https://www.deezer.com/track/3641745282 |
+| 2026-06-07 | 14:28 | Prince | Gigolos Get Lonely Too | Unknown | https://www.deezer.com/track/697899032 |
+| 2026-06-07 | 14:25 | A.R. Kane | Sado Masochism is a Must (instrumental) | Unknown | https://www.deezer.com/track/34927151 |
+| 2026-06-07 | 14:22 | Danalogue | Mother of Mars | Unknown | https://www.deezer.com/track/3878483711 |
+| 2026-06-07 | 14:14 | Big Outdoor Type | Follow Love | Unknown | https://www.deezer.com/track/3804867652 |
+| 2026-06-07 | 14:02 | Acetone | Midnight Cowboy | Unknown | https://www.deezer.com/track/3185431241 |
+| 2026-06-07 | 13:56 | Country Joe and the Fish | Grace | Unknown | https://www.deezer.com/track/6103722 |
+| 2026-06-07 | 13:52 | Sophie Stockham | Liva | Unknown | https://www.deezer.com/track/3956040651 |
+| 2026-06-07 | 13:46 | Yes | Turnaround Situation | Unknown | https://www.deezer.com/track/3994204931 |
+| 2026-06-07 | 13:39 | Invisible System | If That Is What You Want | Unknown | https://www.deezer.com/track/85640434 |
+| 2026-06-07 | 13:35 | Chevreuil | Tartarus | Unknown | https://www.deezer.com/track/3738904502 |
+| 2026-06-07 | 13:24 | Little Storping In The Swuff | Grab Bag | Unknown | https://www.deezer.com/track/3967811571 |
+| 2026-06-07 | 13:07 | Grateful Dead | Terrapin Station Medley | Unknown | https://www.deezer.com/track/74933009 |
+| 2026-06-07 | 12:58 | Edward Barton | Two Old Men And A Drum Machine | Unknown | https://www.deezer.com/track/4036434161 |
+| 2026-06-07 | 12:52 | Kjetil Mulelid | How the West Was Won | Unknown | https://www.deezer.com/track/4014017551 |
+| 2026-06-07 | 12:37 | Country Joe and the Fish | Section 43 | Unknown | https://www.deezer.com/track/3128696 |
+| 2026-06-07 | 12:34 | Silicon Teens | Judy In Disguise | Unknown | https://www.deezer.com/track/133123808 |
+| 2026-06-07 | 12:28 | Mammal Hands | A Thread in the Dark | Unknown | https://www.deezer.com/track/3663142132 |
+| 2026-06-07 | 12:21 | Robert Wyatt | Sea Song | Unknown | https://www.deezer.com/track/4644840 |
+| 2026-06-07 | 12:17 | Country Joe and the Fish | The Masked Marauder | Unknown | https://www.deezer.com/track/3128701 |
+| 2026-06-07 | 12:13 | Country Joe and the Fish | Not So Sweet Martha Lorraine | Unknown | https://www.deezer.com/track/3128693 |
+| 2026-06-07 | 12:09 | Camel | Flight Of The Snow Goose | Unknown | https://www.deezer.com/track/2516526751 |
+| 2026-06-07 | 12:00 | Basil Kirchin | Silicon Chip | Unknown | https://www.deezer.com/track/137056680 |
+| 2026-06-07 | 11:58 | Ryuichi Sakamoto & Alva Noto | Barco | Unknown | https://www.deezer.com/track/1807936267 |
+| 2026-06-07 | 11:34 | A Perfect Circle | Starless | Unknown | https://www.deezer.com/track/4033814731 |
+| 2026-06-07 | 11:22 | Boards of Canada | The Process | Unknown | https://www.deezer.com/track/4047671141 |
+| 2026-06-07 | 11:18 | Bobby Ingham | Lynne | Unknown | https://www.deezer.com/track/3977104801 |
+| 2026-06-07 | 11:14 | aya | Off To The Esso | Unknown | https://www.deezer.com/track/3231041441 |
+| 2026-06-07 | 11:10 | Crass | Shaved Women | Unknown | https://www.deezer.com/track/1069094322 |
+| 2026-06-07 | 11:02 | Kim Gordon | Post Empire | Unknown | https://www.deezer.com/track/3854290301 |
+| 2026-06-07 | 10:59 | David August | HYMN VI | Unknown | https://www.deezer.com/track/3696160132 |
+| 2026-06-07 | 10:49 | The Sterling Jubilee Singers | Job | Unknown | https://www.deezer.com/track/84047639 |
+| 2026-06-07 | 10:34 | Talib Kweli | Get By | Unknown | https://www.deezer.com/track/1094553 |
+| 2026-06-07 | 10:12 | Força Maior | Cubos | Unknown | https://www.deezer.com/track/3722934152 |
+| 2026-06-07 | 10:01 | Donald Byrd | Love Has Come Around | Unknown | https://www.deezer.com/track/3662887 |
+| 2026-06-07 | 09:58 | Wayne Newton | Danke Schoen | Unknown | https://www.deezer.com/track/3124245 |
+| 2026-06-07 | 09:51 | Dr. Horse | Jack, That Cat Was Clean | Unknown | https://www.deezer.com/track/2125710947 |
+| 2026-06-07 | 09:48 | Ella Fitzgerald | Early Autumn | Unknown | https://www.deezer.com/track/347378331 |
+| 2026-06-07 | 09:45 | Pretenders | Stop Your Sobbing | Unknown | https://www.deezer.com/track/14636400 |
+| 2026-06-07 | 09:41 | Lee Hazlewood & Nancy Sinatra | Some Velvet Morning | Unknown | https://www.deezer.com/track/1701070017 |
+| 2026-06-07 | 09:39 | Elvis Presley | King Of The Whole Wide World | Unknown | https://www.deezer.com/track/109601714 |
+| 2026-06-07 | 09:36 | Tom Jones | Chills and Fever | Unknown | https://www.deezer.com/track/525869922 |
+| 2026-06-07 | 09:33 | Charlie Rich | Mohair Sam | Unknown | https://www.deezer.com/track/2174225997 |
+| 2026-06-07 | 09:27 | Warren Zevon | Werewolves Of London | Unknown | https://www.deezer.com/track/773638 |
+| 2026-06-07 | 09:23 | Gigliola Cinquetti | Non Ho L'eta' | Unknown | https://www.deezer.com/track/690256 |
+| 2026-06-07 | 09:19 | Frank Sinatra | Cycles | Unknown | https://www.deezer.com/track/71067924 |
+| 2026-06-07 | 09:17 | Bo Diddley | Mumblin Guitar | Unknown | https://www.deezer.com/track/124194944 |
+| 2026-06-07 | 09:13 | Sex Pistols | Did You No Wrong | Unknown | https://www.deezer.com/track/1763743187 |
+| 2026-06-07 | 09:10 | The Clash | I Fought The Law | Unknown | https://www.deezer.com/track/69505564 |
+| 2026-06-07 | 09:07 | Ersel Hickey | Hangin' Around | Unknown | https://www.deezer.com/track/102590408 |
+| 2026-06-07 | 09:05 | The Rumblers | Boss | Unknown | https://www.deezer.com/track/14194783 |
+| 2026-06-07 | 08:57 | The Byrds | Turn! Turn! Turn! (To Everything There is a Season) | Unknown | https://www.deezer.com/track/1013046 |
+| 2026-06-07 | 08:49 | Iggy Pop | Caesar | Unknown | https://www.deezer.com/track/3171393 |
+| 2026-06-07 | 08:44 | Nico | Evening Of Light | Unknown | https://www.deezer.com/track/2644796872 |
+| 2026-06-07 | 08:40 | The Velvet Underground | Train Round The Bend | Unknown | https://www.deezer.com/track/109844102 |
+| 2026-06-07 | 08:38 | Lee Dorsey | Mexico | Unknown | https://www.deezer.com/track/2650961 |
+| 2026-06-07 | 08:33 | David Johansen | Funky But Chic | Unknown | https://www.deezer.com/track/3746654 |
+| 2026-06-07 | 08:27 | Lorna Bennett | Breakfast In Bed | Unknown | https://www.deezer.com/track/10663622 |
+| 2026-06-07 | 08:24 | Rudy Mills | John Jones | Unknown | https://www.deezer.com/track/971645622 |
+| 2026-06-07 | 08:22 | Blondie | Denis | Unknown | https://www.deezer.com/track/3100612 |
+| 2026-06-07 | 08:20 | The Drones | Bone Idol | Unknown | https://www.deezer.com/track/1145683042 |
+| 2026-06-07 | 08:17 | Jack Nitzsche | The Last Race | Unknown | https://www.deezer.com/track/565657412 |
+| 2026-06-07 | 08:13 | Jacques Dutronc | Il est cinq heures, Paris s'éveille | Unknown | https://www.deezer.com/track/540432 |
+| 2026-06-07 | 08:08 | Dean Martin | Houston | Unknown | https://www.deezer.com/track/74530489 |
+| 2026-06-07 | 08:05 | Jerry Lee Lewis | Whole Lot of Shakin' Going On | Unknown | https://www.deezer.com/track/101566916 |
+| 2026-06-07 | 08:02 | The Hombres | Let It Out (Let It All Hang Out) | Unknown | https://www.deezer.com/track/2713446272 |
+| 2026-06-07 | 08:00 | The Rascals | Groovin' | Unknown | https://www.deezer.com/track/81769154 |
+| 2026-06-07 | 07:57 | Billy Taylor | I Wish I Knew How It Would Feel To Be Free | Unknown | https://www.deezer.com/track/3012189621 |
+| 2026-06-07 | 07:51 | TV on the Radio | Province | Unknown | https://www.deezer.com/track/558606592 |
+| 2026-06-07 | 07:48 | The National | Green Gloves | Unknown | https://www.deezer.com/track/66539286 |
+| 2026-06-07 | 07:43 | Smog | In The Pines | Unknown | https://www.deezer.com/track/479816552 |
+| 2026-06-07 | 07:37 | Beach House | Real Love | Unknown | https://www.deezer.com/track/1137161852 |
+| 2026-06-07 | 07:33 | Lowly | Liminal Space | Unknown | https://www.deezer.com/track/3962144211 |
+| 2026-06-07 | 07:02 | Crosby, Stills, Nash & Young | Deja Vu | Unknown | https://www.deezer.com/track/3821907 |
+| 2026-06-07 | 06:58 | Peter Gabriel | This Is The Picture (Excellent Birds) | Unknown | https://www.deezer.com/track/538709132 |
+| 2026-06-07 | 06:55 | Stan Rogers | White Collar Holler | Unknown | https://www.deezer.com/track/3255660811 |
+| 2026-06-07 | 06:46 | Emily Mercer | Flatlining | Unknown | https://www.deezer.com/track/3913181711 |
+| 2026-06-07 | 06:40 | Ignace Paderewski | Reflections In The Water | Unknown | https://www.deezer.com/track/65381142 |
+| 2026-06-07 | 06:33 | Andrea Laszlo De Simone | Dal giorno in cui sei nato tu | Unknown | https://www.deezer.com/track/1103905612 |
+| 2026-06-07 | 06:24 | Peter Gabriel | Mercy Street | Unknown | https://www.deezer.com/track/538709102 |
+| 2026-06-07 | 06:19 | Run Remedy | Big Nothing | Unknown | https://www.deezer.com/track/3993332281 |
+| 2026-06-07 | 06:02 | TV on the Radio | Love Dog | Unknown | https://www.deezer.com/track/558606502 |
+| 2026-06-07 | 05:58 | Sam Amidon | Saro | Unknown | https://www.deezer.com/track/1223680 |
+| 2026-06-07 | 04:49 | Sonny Rollins | You Do Something to Me | Unknown | https://www.deezer.com/track/628952 |
+| 2026-06-07 | 04:45 | Sonny Rollins | Blue Room | Unknown | https://www.deezer.com/track/1325067832 |
+| 2026-06-07 | 04:37 | Big Mama Thornton | Sweet Little Angel | Unknown | https://www.deezer.com/track/935787622 |
+| 2026-06-07 | 04:34 | Galvezton | Roll to G-TOWN | Unknown | https://www.deezer.com/track/3429758171 |
+| 2026-06-07 | 04:02 | Queen | Seven Seas Of Rhye | Unknown | https://www.deezer.com/track/716513422 |
+| 2026-06-07 | 04:00 | Beth Carvalho | Vou Festejar | Unknown | https://www.deezer.com/track/128702397 |
+| 2026-06-07 | 03:52 | Charlie Franklin | Take The Blame | Unknown | https://www.deezer.com/track/4001048941 |
+| 2026-06-07 | 03:47 | Jon Batiste | Facile-Batiste | Unknown | https://www.deezer.com/track/4022764551 |
+| 2026-06-07 | 03:42 | NRBQ | I Got A Rocket In My Pocket | Unknown | https://www.deezer.com/track/2459259115 |
+| 2026-06-07 | 03:35 | Olympia Vitalis | Money Tree | Unknown | https://www.deezer.com/track/3978315441 |
+| 2026-06-07 | 03:11 | Cosmo Sheldrake | Bathed In Sound | Unknown | https://www.deezer.com/track/2154588507 |
+| 2026-06-07 | 03:01 | Billie Eilish | Ocean Eyes | Unknown | https://www.deezer.com/track/136337268 |
+| 2026-06-07 | 02:58 | Oscar Peterson & Ben Webster | How Deep Is The Ocean (How High Is The Sky) | Unknown | https://www.deezer.com/track/2177564 |
+| 2026-06-07 | 02:55 | Deepak Limbu | Timro Aankha | Unknown | https://www.deezer.com/track/2165369987 |
+| 2026-06-07 | 02:49 | Hollow Hand | A World Outside | Unknown | https://www.deezer.com/track/409361282 |
+| 2026-06-07 | 02:46 | Paul Weller | Broken Stones | Unknown | https://www.deezer.com/track/1177226 |
+| 2026-06-07 | 02:43 | The Carter Family | The Storms Are on the Ocean | Unknown | https://www.deezer.com/track/1914483 |
+| 2026-06-07 | 02:33 | The Beatles | I Am The Walrus | Unknown | https://www.deezer.com/track/116348290 |
+| 2026-06-07 | 02:26 | Totó la Momposina | El Pescador | Unknown | https://www.deezer.com/track/99269486 |
+| 2026-06-07 | 02:20 | Sera Cahoone | Say Something | Unknown | https://www.deezer.com/track/3962877481 |
+| 2026-06-07 | 02:11 | Nicholas Payton & Butcher Brown | All Blues | Unknown | https://www.deezer.com/track/3997508951 |
+| 2026-06-07 | 02:05 | IKE | SIDDA - Cairo version | Unknown | https://www.deezer.com/track/3975024461 |
+| 2026-06-07 | 01:16 | Alvvays | In Undertow | Unknown | https://www.deezer.com/track/1982378377 |
+| 2026-06-07 | 00:58 | Meltt | Hesitate | Unknown | https://www.deezer.com/track/3644652562 |
+| 2026-06-07 | 00:53 | Beck | The New Pollution | Unknown | https://www.deezer.com/track/971422862 |
+| 2026-06-07 | 00:33 | Prince | If I Was Your Girlfriend | Unknown | https://www.deezer.com/track/1173112892 |
+| 2026-06-07 | 00:21 | Status Quo | Break The Rules | Unknown | https://www.deezer.com/track/2362305875 |
+| 2026-06-07 | 00:01 | Everything Everything | Cough Cough | Unknown | https://www.deezer.com/track/62723935 |
