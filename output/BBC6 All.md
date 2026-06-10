@@ -4621,3 +4621,106 @@ source: BBC Radio 6
 | 2026-06-08 | 00:18 | Bahamadia | Pep Talk | Unknown | https://www.deezer.com/track/543745372 |
 | 2026-06-08 | 00:13 | Hadda Be | High Noon | Unknown | https://www.deezer.com/track/3967231601 |
 | 2026-06-08 | 00:10 | Aretha Franklin | Save Me | Unknown | https://www.deezer.com/track/2133604 |
+| 2026-06-10 | Live | Neil Diamond | Sweet Caroline | Unknown | https://www.deezer.com/track/145434430 |
+| 2026-06-10 | 19:49 | James | Sit Down | Unknown | https://www.deezer.com/track/1147558 |
+| 2026-06-10 | 19:41 | Coldplay | Viva La Vida | Unknown | https://www.deezer.com/track/3157972 |
+| 2026-06-10 | 19:30 | U2 | Beautiful Day | Unknown | https://www.deezer.com/track/1574190 |
+| 2026-06-10 | 19:23 | The Jam | A Town Called Malice | Unknown | https://www.deezer.com/track/1824641177 |
+| 2026-06-10 | 19:19 | The Killers | When You Were Young | Unknown | https://www.deezer.com/track/1109953 |
+| 2026-06-10 | 19:16 | The White Stripes | Seven Nation Army | Unknown | https://www.deezer.com/track/1153182282 |
+| 2026-06-10 | 19:04 | The Fratellis | Chelsea Dagger | Unknown | https://www.deezer.com/track/1760905137 |
+| 2026-06-10 | 19:01 | Kasabian | Club Foot | Unknown | https://www.deezer.com/track/598671 |
+| 2026-06-10 | 18:58 | Tom Petty | I Won't Back Down | Unknown | https://www.deezer.com/track/2303728 |
+| 2026-06-10 | 18:55 | Tom Petty and the Heartbreakers | California | Unknown | https://www.deezer.com/track/2005523697 |
+| 2026-06-10 | 18:52 | Tom Petty and the Heartbreakers | American Girl | Unknown | https://www.deezer.com/track/588236252 |
+| 2026-06-10 | 18:48 | Tom Petty and the Heartbreakers | The Waiting | Unknown | https://www.deezer.com/track/588236332 |
+| 2026-06-10 | 18:43 | Tom Petty and the Heartbreakers | Mary Jane's Last Dance | Unknown | https://www.deezer.com/track/588236412 |
+| 2026-06-10 | 18:39 | Tom Petty | Harry Green | Unknown | https://www.deezer.com/track/1107480492 |
+| 2026-06-10 | 18:33 | Tom Petty | Time To Move On | Unknown | https://www.deezer.com/track/4091204 |
+| 2026-06-10 | 18:27 | Tom Petty and the Heartbreakers | Walls (Circus) | Unknown | https://www.deezer.com/track/4091274 |
+| 2026-06-10 | 18:24 | Tom Petty | Wildflowers | Unknown | https://www.deezer.com/track/4091202 |
+| 2026-06-10 | 18:19 | Tom Petty and the Heartbreakers | Don't Come Around Here No More | Unknown | https://www.deezer.com/track/588236352 |
+| 2026-06-10 | 18:16 | Tom Petty and the Heartbreakers | Angel Dream (No. 4) | Unknown | https://www.deezer.com/track/4091279 |
+| 2026-06-10 | 18:12 | Tom Petty and the Heartbreakers | Learning To Fly | Unknown | https://www.deezer.com/track/2293281 |
+| 2026-06-10 | 18:08 | Tom Petty | Free Fallin' | Unknown | https://www.deezer.com/track/2303727 |
+| 2026-06-10 | 18:01 | Tom Petty | You Don't Know How It Feels | Unknown | https://www.deezer.com/track/4091203 |
+| 2026-06-10 | 17:58 | Clarence Carter | Too Weak To Fight | Unknown | https://www.deezer.com/track/6063676 |
+| 2026-06-10 | 17:50 | Clémentine March | Upheaval (First Version) | Unknown | https://www.deezer.com/track/3977122121 |
+| 2026-06-10 | 17:31 | Colin Blunstone | She Loves The Way They Love Her | Unknown | https://www.deezer.com/track/5431892 |
+| 2026-06-10 | 17:20 | My Precious Bunny | Wack | Unknown | https://www.deezer.com/track/3771323442 |
+| 2026-06-10 | 17:15 | Penelope Isles | Thinking Seat | Unknown | https://www.deezer.com/track/4021101601 |
+| 2026-06-10 | 16:48 | Harry Nilsson | Coconut | Unknown | https://www.deezer.com/track/418452432 |
+| 2026-06-10 | 16:44 | Elanor Moss | Sarah Waiting In The Car | Unknown | https://www.deezer.com/track/4008287831 |
+| 2026-06-10 | 16:19 | Françoise Hardy | Voilà | Unknown | https://www.deezer.com/track/132631076 |
+| 2026-06-10 | 16:03 | Ty Segall | Black Paint | Unknown | https://www.deezer.com/track/3990974851 |
+| 2026-06-10 | 16:01 | Happy Mondays | Do It Better | Unknown | https://www.deezer.com/track/428805542 |
+| 2026-06-10 | 14:26 | Bonobo | Me and You | Unknown | https://www.deezer.com/track/4064418861 |
+| 2026-06-10 | 14:21 | Big Freedia & SOPHIE | Go Down | Unknown | https://www.deezer.com/track/4005827891 |
+| 2026-06-10 | 14:17 | Radio Free Alice | Lunch Money | Unknown | https://www.deezer.com/track/4059412851 |
+| 2026-06-10 | 14:13 | Kelsey Lu | Cutting Off The Head Of A Ghost | Unknown | https://www.deezer.com/track/4061131961 |
+| 2026-06-10 | 14:09 | Show Me the Body | Eat For Peace | Unknown | https://www.deezer.com/track/4058756631 |
+| 2026-06-10 | 14:03 | Interpol | See Out Loud | Unknown | https://www.deezer.com/track/4020540721 |
+| 2026-06-10 | 13:56 | Death Cab for Cutie | The New Year | Unknown | https://www.deezer.com/track/71511136 |
+| 2026-06-10 | 13:17 | American Football | Never Meant | Unknown | https://www.deezer.com/track/1982411167 |
+| 2026-06-10 | 13:15 | Tool | Lateralus | Unknown | https://www.deezer.com/track/722078572 |
+| 2026-06-10 | 12:58 | Remi Wolf | Quiet On Set | Unknown | https://www.deezer.com/track/1516276882 |
+| 2026-06-10 | 12:52 | The Mary Wallopers | Crowns Of England | Unknown | https://www.deezer.com/track/4005951641 |
+| 2026-06-10 | 12:48 | Mo-Dettes | White Mice | Unknown | https://www.deezer.com/track/1147077302 |
+| 2026-06-10 | 12:09 | The Alarm | Rain In The Summertime | Unknown | https://www.deezer.com/track/440353012 |
+| 2026-06-10 | 11:48 | Ben Kweller & Waxahatchee | Dollar Store | Unknown | https://www.deezer.com/track/3269496451 |
+| 2026-06-10 | 11:23 | Kendrick Lamar | Alright | Unknown | https://www.deezer.com/track/97206068 |
+| 2026-06-10 | 11:20 | papaya noon | blush | Unknown | https://www.deezer.com/track/3969859421 |
+| 2026-06-10 | 10:56 | Mr. Scruff | Spandex Man | Unknown | https://www.deezer.com/track/10238623 |
+| 2026-06-10 | 10:26 | Arctic Monkeys | Sculptures Of Anything Goes | Unknown | https://www.deezer.com/track/1953333107 |
+| 2026-06-10 | 10:18 | Millie | My Boy Lollipop | Unknown | https://www.deezer.com/track/5193461 |
+| 2026-06-10 | 10:15 | Lord Tanamo | I'm In The Mood For Ska | Unknown | https://www.deezer.com/track/3786453202 |
+| 2026-06-10 | 10:13 | Bob Marley & The Wailers | Simmer Down | Unknown | https://www.deezer.com/track/1065057 |
+| 2026-06-10 | 10:08 | Roni Size & Roni Size / Reprazent | Watching Windows | Unknown | https://www.deezer.com/track/2133889287 |
+| 2026-06-10 | 09:57 | IfANS | There Is Sunlight | Unknown | https://www.deezer.com/track/3995083621 |
+| 2026-06-10 | 09:48 | BC Camplight | I'm Alright In The World | Unknown | https://www.deezer.com/track/1372715082 |
+| 2026-06-10 | 09:43 | Björk | Come To Me | Unknown | https://www.deezer.com/track/14611458 |
+| 2026-06-10 | 09:27 | The Maccabees | Feel To Follow | Unknown | https://www.deezer.com/track/15908398 |
+| 2026-06-10 | 08:49 | The Cramps | Goo Goo Muck | Unknown | https://www.deezer.com/track/3105075 |
+| 2026-06-10 | 08:44 | Courtney Barnett | Mantis | Unknown | https://www.deezer.com/track/3918054771 |
+| 2026-06-10 | 08:42 | Yvonne Baker | You Didn't Say A Word | Unknown | https://www.deezer.com/track/2796710 |
+| 2026-06-10 | 08:27 | Incredible Bongo Band | Apache | Unknown | https://www.deezer.com/track/1457268752 |
+| 2026-06-10 | 08:12 | LL Cool J | Mama Said Knock You Out | Unknown | https://www.deezer.com/track/583099052 |
+| 2026-06-10 | 08:01 | Yazoo | Don't Go | Unknown | https://www.deezer.com/track/3803600192 |
+| 2026-06-10 | 07:56 | Echo & the Bunnymen | Never Stop | Unknown | https://www.deezer.com/track/720234 |
+| 2026-06-10 | 07:53 | Big Thief | Simulation Swarm | Unknown | https://www.deezer.com/track/1627955162 |
+| 2026-06-10 | 07:44 | Bob Dylan | All Along The Watchtower | Unknown | https://www.deezer.com/track/15347301 |
+| 2026-06-10 | 07:22 | Hercules & Love Affair | Controller (feat. Faris Badwan) | Unknown | https://www.deezer.com/track/143299196 |
+| 2026-06-10 | 07:02 | Massive Attack | Risingson | Unknown | https://www.deezer.com/track/3129747 |
+| 2026-06-10 | 06:50 | Chenayder | Wonder | Unknown | https://www.deezer.com/track/3958121631 |
+| 2026-06-10 | 06:35 | Keleketla! | Future Toyi Toyi | Unknown | https://www.deezer.com/track/931338372 |
+| 2026-06-10 | 06:17 | Liquid Liquid | Optimo | Unknown | https://www.deezer.com/track/519098202 |
+| 2026-06-10 | 06:14 | Matmos | Breaking Bread | Unknown | https://www.deezer.com/track/601950562 |
+| 2026-06-10 | 06:00 | The Chemical Brothers | Leave Home | Unknown | https://www.deezer.com/track/4046160081 |
+| 2026-06-10 | 05:38 | The Chemical Brothers | Hey Boy Hey Girl | Unknown | https://www.deezer.com/track/3135034 |
+| 2026-06-10 | 05:17 | Pastor T.L. Barrett & The Youth for Christ Choir | Like A Ship | Unknown | https://www.deezer.com/track/378358101 |
+| 2026-06-10 | 05:13 | Gelli Haha | Klouds Will Carry Me To Sleep | Unknown | https://www.deezer.com/track/3904375791 |
+| 2026-06-10 | 05:01 | Glass Animals | Life Itself | Unknown | https://www.deezer.com/track/130851524 |
+| 2026-06-10 | 04:57 | PJ Harvey | Dress | Unknown | https://www.deezer.com/track/1760959137 |
+| 2026-06-10 | 04:19 | Benga & Coki | Night | Unknown | https://www.deezer.com/track/3187287521 |
+| 2026-06-10 | 04:16 | Otis Redding | I Can't Turn You Loose | Unknown | https://www.deezer.com/track/722620 |
+| 2026-06-10 | 04:02 | Sharon Van Etten | Mistakes | Unknown | https://www.deezer.com/track/1660696082 |
+| 2026-06-10 | 03:56 | Marina y su Melao | Hablen, habladores (Kokoro Disco-San Remix) | Unknown | https://www.deezer.com/track/4033529481 |
+| 2026-06-10 | 03:47 | Linda Clifford | Runaway Love | Unknown | https://www.deezer.com/track/754914 |
+| 2026-06-10 | 03:42 | Nas | I Can | Unknown | https://www.deezer.com/track/15487960 |
+| 2026-06-10 | 03:23 | Robyn | Call Your Girlfriend | Unknown | https://www.deezer.com/track/1762991587 |
+| 2026-06-10 | 03:19 | Vitalic | Poison Lips | Unknown | https://www.deezer.com/track/3625529952 |
+| 2026-06-10 | 03:12 | Suede | Animal Nitrate | Unknown | https://www.deezer.com/track/939777072 |
+| 2026-06-10 | 03:09 | Betty Wright | Shoorah! Shoorah! | Unknown | https://www.deezer.com/track/979626472 |
+| 2026-06-10 | 03:06 | Working Men’s Club | Valleys | Unknown | https://www.deezer.com/track/1032349712 |
+| 2026-06-10 | 03:02 | The Human League | The Sound Of The Crowd | Unknown | https://www.deezer.com/track/3092933 |
+| 2026-06-10 | 02:36 | Lizzo | Juice | Unknown | https://www.deezer.com/track/666286232 |
+| 2026-06-10 | 02:27 | Shy FX | Soon Come | Unknown | https://www.deezer.com/track/444534312 |
+| 2026-06-10 | 02:07 | Blondie | Dreaming | Unknown | https://www.deezer.com/track/3122253 |
+| 2026-06-10 | 01:50 | Nick Drake | Pink Moon | Unknown | https://www.deezer.com/track/1379123002 |
+| 2026-06-10 | 01:02 | St. Vincent | Broken Man | Unknown | https://www.deezer.com/track/2652363942 |
+| 2026-06-10 | 00:58 | Tiësto & Charli xcx | Hot In It | Unknown | https://www.deezer.com/track/1793972847 |
+| 2026-06-10 | 00:43 | Jimi Hendrix | Voodoo Child (Slight Return) | Unknown | https://www.deezer.com/track/4952826 |
+| 2026-06-10 | 00:37 | Everything Is Recorded | Losing You | Unknown | https://www.deezer.com/track/3064538581 |
+| 2026-06-10 | 00:21 | The Breeders | Hellbound | Unknown | https://www.deezer.com/track/66538664 |
+| 2026-06-10 | 00:16 | Blinker the Star | Clouds Swoon | Unknown | https://www.deezer.com/track/3087653301 |
+| 2026-06-10 | 00:12 | Talking Heads | Slippery People | Unknown | https://www.deezer.com/track/3614312 |
