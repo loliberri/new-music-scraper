@@ -4930,3 +4930,114 @@ source: BBC Radio 6
 | 2026-06-12 | 00:56 | Prince | Love Thy Will Be Done | Unknown | https://www.deezer.com/track/697899042 |
 | 2026-06-12 | 00:14 | Gabi Garbutt | Fire In The Well | Unknown | https://www.deezer.com/track/4024888641 |
 | 2026-06-12 | 00:11 | Brittany Howard | What Now | Unknown | https://www.deezer.com/track/2485937531 |
+| 2026-06-13 | 20:01 | Joy Division | She's Lost Control | Unknown | https://www.deezer.com/track/729546 |
+| 2026-06-13 | 19:55 | Vintage Culture | Strange Feelings (Solomun Remix) | Unknown | https://www.deezer.com/track/3014898811 |
+| 2026-06-13 | 19:50 | The Temper Trap | Giving Up Air (Solomun Remix) | Unknown | https://www.deezer.com/track/3669222662 |
+| 2026-06-13 | 19:47 | Nina Simone | Take Care Of Business (Solomun Mix) | Unknown | https://www.deezer.com/track/3841780431 |
+| 2026-06-13 | 19:42 | Tiga vs. Audion | Let's Go Dancing (Solomun Remix) | Unknown | https://www.deezer.com/track/2871414012 |
+| 2026-06-13 | 19:38 | Foals | Late Night (Solomun Remix) | Unknown | https://www.deezer.com/track/1100803432 |
+| 2026-06-13 | 19:36 | Leonard Cohen | You Want It Darker (Solomun Remix) | Unknown | https://www.deezer.com/track/526192242 |
+| 2026-06-13 | 19:31 | ÄTNA | Smile (Solomun Remix) | Unknown | https://www.deezer.com/track/1746636747 |
+| 2026-06-13 | 19:19 | Empire of the Sun | Television (Solomun Remix) | Unknown | https://www.deezer.com/track/3298451521 |
+| 2026-06-13 | 19:16 | KH | Looking At Your Pager (Solomun Remix) | Unknown | https://www.deezer.com/track/1871117997 |
+| 2026-06-13 | 19:14 | Interpol | Everything is Wrong (Solomun Remix) | Unknown | https://www.deezer.com/track/2561695852 |
+| 2026-06-13 | 19:12 | Lana Del Rey | West Coast (Solomun Remix) | Unknown | https://www.deezer.com/track/2653439522 |
+| 2026-06-13 | 19:07 | Joe Smooth | Promised Land (Solomun Remix) | Unknown | https://www.deezer.com/track/2877412862 |
+| 2026-06-13 | 19:01 | London Grammar | House (Solomun Remix) | Unknown | https://www.deezer.com/track/2745977161 |
+| 2026-06-13 | 18:53 | Sparks | Beat The Clock | Unknown | https://www.deezer.com/track/2822927512 |
+| 2026-06-13 | 18:46 | N.O.I.A. | True Love (Sexual Version) | Unknown | https://www.deezer.com/track/777800812 |
+| 2026-06-13 | 18:07 | Apiento | The Orange Place | Unknown | https://www.deezer.com/track/2206445387 |
+| 2026-06-13 | 17:58 | The Moldy Peaches | Anyone Else But You | Unknown | https://www.deezer.com/track/140740479 |
+| 2026-06-13 | 17:55 | The Postal Service | Nothing Better | Unknown | https://www.deezer.com/track/1137189242 |
+| 2026-06-13 | 17:52 | Wilco | You and I | Unknown | https://www.deezer.com/track/89387399 |
+| 2026-06-13 | 17:50 | The White Stripes | It's True We Love One Another | Unknown | https://www.deezer.com/track/1092293462 |
+| 2026-06-13 | 17:47 | Nick Cave & PJ Harvey | Henry Lee | Unknown | https://www.deezer.com/track/3786435042 |
+| 2026-06-13 | 17:42 | The Naked and Famous | Punching In A Dream | Unknown | https://www.deezer.com/track/3812953962 |
+| 2026-06-13 | 17:22 | Of Monsters and Men | Little Talks | Unknown | https://www.deezer.com/track/17615568 |
+| 2026-06-13 | 17:14 | Gorillaz & Jehnny Beth | We Got The Power | Unknown | https://www.deezer.com/track/144958912 |
+| 2026-06-13 | 17:11 | Courtney Barnett & Kurt Vile | Over Everything | Unknown | https://www.deezer.com/track/401064542 |
+| 2026-06-13 | 17:01 | Edward Sharpe and the Magnetic Zeros | Home | Unknown | https://www.deezer.com/track/29093801 |
+| 2026-06-13 | 16:50 | Yard Act & Katy J Pearson | When The Laughter Stops | Unknown | https://www.deezer.com/track/2645821182 |
+| 2026-06-13 | 16:39 | The Nightclubs | Clairaudient | Unknown | https://www.deezer.com/track/4019705131 |
+| 2026-06-13 | 16:36 | The Smiths | Cemetry Gates | Unknown | https://www.deezer.com/track/13785969 |
+| 2026-06-13 | 16:33 | The Vaccines | I Can't Quit | Unknown | https://www.deezer.com/track/473800212 |
+| 2026-06-13 | 16:30 | The Rifles | Local Boy | Unknown | https://www.deezer.com/track/3652600162 |
+| 2026-06-13 | 16:25 | Black Kids | Hurricane Jane | Unknown | https://www.deezer.com/track/3266241981 |
+| 2026-06-13 | 16:18 | The Kooks | Ooh La | Unknown | https://www.deezer.com/track/361094301 |
+| 2026-06-13 | 16:07 | Lily Allen | LDN | Unknown | https://www.deezer.com/track/3153914 |
+| 2026-06-13 | 15:53 | Izaline Calister | Ban wap'é | Unknown | https://www.deezer.com/track/1839291397 |
+| 2026-06-13 | 15:48 | Tram 11 | Vrućina Gradskog Asfalta | Unknown | https://www.deezer.com/track/125575198 |
+| 2026-06-13 | 15:08 | Robson Jorge & Lincoln Olivetti | Aleluia | Unknown | https://www.deezer.com/track/85336286 |
+| 2026-06-13 | 15:04 | Beth Carvalho | Coisinha do Pai | Unknown | https://www.deezer.com/track/60039871 |
+| 2026-06-13 | 15:01 | Jorge Ben Jor & Toquinho | Carolina Carol Bela | Unknown | https://www.deezer.com/track/2597273 |
+| 2026-06-13 | 14:56 | Tim Maia | O Descobridor Dos Sete Mares | Unknown | https://www.deezer.com/track/543123692 |
+| 2026-06-13 | 14:52 | Sikter | Don't You Miss Me | Unknown | https://www.deezer.com/track/473534662 |
+| 2026-06-13 | 14:46 | Chocolat’s | El Caravanero | Unknown | https://www.deezer.com/track/2187225 |
+| 2026-06-13 | 14:42 | René Costy & His Orchestra | Scrabble | Unknown | https://www.deezer.com/track/99084738 |
+| 2026-06-13 | 14:39 | Rose May Alaba | IBADI (Waist) | Unknown | https://www.deezer.com/track/2248523727 |
+| 2026-06-13 | 14:27 | Sampa the Great | OMG | Unknown | https://www.deezer.com/track/699274162 |
+| 2026-06-13 | 14:12 | Fred again.. & Ca7riel & Paco Amoroso | Beto's Horns (fred remix) | Unknown | https://www.deezer.com/track/3631384842 |
+| 2026-06-13 | 14:04 | Gotan Project | Santa Maria (Del Buen Ayre) | Unknown | https://www.deezer.com/track/14431765 |
+| 2026-06-13 | 13:52 | SILVERWINGKILLER | Gunman Corner | Unknown | https://www.deezer.com/track/4019751611 |
+| 2026-06-13 | 13:49 | My Chemical Romance | I'm Not Okay (I Promise) | Unknown | https://www.deezer.com/track/785961 |
+| 2026-06-13 | 13:44 | Wild Beasts | The Devil's Crayon | Unknown | https://www.deezer.com/track/77504189 |
+| 2026-06-13 | 13:19 | Simple Minds | The American | Unknown | https://www.deezer.com/track/41373881 |
+| 2026-06-13 | 13:07 | The Jam | The Modern World | Unknown | https://www.deezer.com/track/2523068 |
+| 2026-06-13 | 12:57 | Manic Street Preachers | La Tristesse Durera (Scream To A Sigh) | Unknown | https://www.deezer.com/track/970456672 |
+| 2026-06-13 | 12:50 | Pulled Apart by Horses | I Punched A Lion In The Throat | Unknown | https://www.deezer.com/track/2407593275 |
+| 2026-06-13 | 12:33 | Working Men’s Club | X | Unknown | https://www.deezer.com/track/1343182612 |
+| 2026-06-13 | 12:18 | Garbage | Only Happy When It Rains | Unknown | https://www.deezer.com/track/1761472017 |
+| 2026-06-13 | 12:14 | The Selecter | Too Much Pressure | Unknown | https://www.deezer.com/track/1787628137 |
+| 2026-06-13 | 11:54 | The Supremes | Floy Joy | Unknown | https://www.deezer.com/track/77769989 |
+| 2026-06-13 | 11:44 | The Corrs | Breathless | Unknown | https://www.deezer.com/track/661620 |
+| 2026-06-13 | 11:33 | De La Soul | Me, Myself and I | Unknown | https://www.deezer.com/track/2048503687 |
+| 2026-06-13 | 11:04 | HAIM | Take me back | Unknown | https://www.deezer.com/track/3602112472 |
+| 2026-06-13 | 11:01 | Arctic Monkeys | R U Mine? | Unknown | https://www.deezer.com/track/70322132 |
+| 2026-06-13 | 10:48 | R.E.M. | Man on the Moon | Unknown | https://www.deezer.com/track/121921384 |
+| 2026-06-13 | 10:19 | Baloji | L'Hiver Indien | Unknown | https://www.deezer.com/track/400987562 |
+| 2026-06-13 | 09:55 | Feeder | Just The Way I'm Feeling | Unknown | https://www.deezer.com/track/3782868482 |
+| 2026-06-13 | 09:40 | The Caymans | Nowhere, NW | Unknown | https://www.deezer.com/track/4024395331 |
+| 2026-06-13 | 09:33 | The Undertones | My Perfect Cousin | Unknown | https://www.deezer.com/track/3786465752 |
+| 2026-06-13 | 09:26 | Kerri Chandler | On My Way | Unknown | https://www.deezer.com/track/2650826672 |
+| 2026-06-13 | 09:19 | Maribou State | Kingdom (feat. North Downs) | Unknown | https://www.deezer.com/track/510203432 |
+| 2026-06-13 | 09:10 | Miike Snow | Animal | Unknown | https://www.deezer.com/track/3250209041 |
+| 2026-06-13 | 08:52 | John Cooper Clarke | I Married A Monster From Outer Space | Unknown | https://www.deezer.com/track/572383 |
+| 2026-06-13 | 08:40 | LEMONSUCKR | House on Fire | Unknown | https://www.deezer.com/track/4001143141 |
+| 2026-06-13 | 08:25 | Iggy Pop | Lust For Life | Unknown | https://www.deezer.com/track/366455951 |
+| 2026-06-13 | 07:34 | Dry Cleaning | Strong Feelings | Unknown | https://www.deezer.com/track/1271890472 |
+| 2026-06-13 | 07:19 | Chisko Disco | Much In Love | Unknown | https://www.deezer.com/track/2512410001 |
+| 2026-06-13 | 07:15 | DE SOFFER | Smalltown Boy | Unknown | https://www.deezer.com/track/3681742812 |
+| 2026-06-13 | 07:12 | DERON & DJ Delicious | Same Man (Deron Rework) | Unknown | https://www.deezer.com/track/3614122102 |
+| 2026-06-13 | 07:08 | Cerrone & Adi Oasis | New Highs | Unknown | https://www.deezer.com/track/3975034121 |
+| 2026-06-13 | 06:56 | Vegyn | There's Something Here for Us Both | Unknown | https://www.deezer.com/track/3958777121 |
+| 2026-06-13 | 06:27 | The Maccabees | Marks To Prove It | Unknown | https://www.deezer.com/track/97979344 |
+| 2026-06-13 | 06:01 | Jane Weaver | Mission Desire | Unknown | https://www.deezer.com/track/2120853287 |
+| 2026-06-13 | 05:56 | Patrick Hernandez | Born To Be Alive | Unknown | https://www.deezer.com/track/4077573 |
+| 2026-06-13 | 05:43 | Modjo | Lady (Hear Me Tonight) | Unknown | https://www.deezer.com/track/70179720 |
+| 2026-06-13 | 05:41 | Sébastien Tellier | Cochon Ville | Unknown | https://www.deezer.com/track/2749372321 |
+| 2026-06-13 | 05:10 | Bab L’ Bluz | IWAIWA FUNK | Unknown | https://www.deezer.com/track/2661531852 |
+| 2026-06-13 | 04:49 | Surusinghe | Party Criminal | Unknown | https://www.deezer.com/track/3950292591 |
+| 2026-06-13 | 04:25 | Guided by Voices | Everywhere With Helicopter | Unknown | https://www.deezer.com/track/105281382 |
+| 2026-06-13 | 03:25 | Turnstile | Never Enough | Unknown | https://www.deezer.com/track/3402267041 |
+| 2026-06-13 | 03:20 | Marie Davidson & L'OEil Nu | Renegade Breakdown | Unknown | https://www.deezer.com/track/1049421342 |
+| 2026-06-13 | 03:17 | MC Tunes & 808 State | The Only Rhyme That Bites | Unknown | https://www.deezer.com/track/1476820842 |
+| 2026-06-13 | 03:14 | The Stone Roses | Sally Cinnamon | Unknown | https://www.deezer.com/track/2907715201 |
+| 2026-06-13 | 03:09 | Sly & Robbie | Boops (Here To Go) | Unknown | https://www.deezer.com/track/1761299447 |
+| 2026-06-13 | 02:53 | Soundgarden | Spoonman | Unknown | https://www.deezer.com/track/78690536 |
+| 2026-06-13 | 02:45 | Stars | Ageless Beauty | Unknown | https://www.deezer.com/track/432378562 |
+| 2026-06-13 | 02:40 | Grimes | Genesis | Unknown | https://www.deezer.com/track/16620204 |
+| 2026-06-13 | 02:34 | The Jam | Going Underground | Unknown | https://www.deezer.com/track/89310715 |
+| 2026-06-13 | 02:19 | Heartworms | Extraordinary Wings | Unknown | https://www.deezer.com/track/3130383821 |
+| 2026-06-13 | 01:48 | Georgian | Californian Jeans | Unknown | https://www.deezer.com/track/3894721461 |
+| 2026-06-13 | 01:42 | KRS-One | Step Into a World (Rapture's Delight) | Unknown | https://www.deezer.com/track/75785672 |
+| 2026-06-13 | 01:35 | Roxy Music | Same Old Scene | Unknown | https://www.deezer.com/track/3088612 |
+| 2026-06-13 | 01:04 | Amyl and the Sniffers | Control | Unknown | https://www.deezer.com/track/675020682 |
+| 2026-06-13 | 00:53 | Magazine | Real Life | Unknown | https://www.deezer.com/track/3142415 |
+| 2026-06-13 | 00:48 | The Rezillos | Top Of The Pops | Unknown | https://www.deezer.com/track/6635689 |
+| 2026-06-13 | 00:31 | Lizzo | Tempo (feat. Missy Elliott) | Unknown | https://www.deezer.com/track/666286272 |
+| 2026-06-13 | 00:26 | Cut Copy | Lights & Music (Moulinex Remix) | Unknown | https://www.deezer.com/track/7276345 |
+| 2026-06-13 | 00:18 | LCD Soundsystem | North American Scum (Kris Menace Remix) | Unknown | https://www.deezer.com/track/1326993892 |
+| 2026-06-13 | 00:14 | Yeah Yeah Yeahs | Wolf (Boys Noize Remix) | Unknown | https://www.deezer.com/track/1972726997 |
+| 2026-06-13 | 00:10 | The Knife | Heartbeats (Rex The Dog Remix) | Unknown | https://www.deezer.com/track/1892629087 |
+| 2026-06-13 | 00:05 | Friendly Fires | Paris (Aeroplane Remix) | Unknown | https://www.deezer.com/track/2464502 |
+| 2026-06-13 | 00:01 | Phoenix | Lisztomania (Alex Metric Remix) | Unknown | https://www.deezer.com/track/3026049571 |
