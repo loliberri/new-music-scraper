@@ -5441,3 +5441,96 @@ source: BBC Radio 6
 | 2026-06-16 | 00:22 | Heaven 17 | (We Don't Need This) Fascist Groove Thang | Unknown | https://www.deezer.com/track/3112505 |
 | 2026-06-16 | 00:13 | Herbie May | Uphill | Unknown | https://www.deezer.com/track/3973787771 |
 | 2026-06-16 | 00:10 | Billy Nomates | Blue Bones | Unknown | https://www.deezer.com/track/3187043511 |
+| 2026-06-17 | 19:53 | Hayley Williams | Hard | Unknown | https://www.deezer.com/track/3631956022 |
+| 2026-06-17 | 19:49 | Geese | Au Pays du Cocaine | Unknown | https://www.deezer.com/track/3399059271 |
+| 2026-06-17 | 19:47 | Death Cab for Cutie | Roman Candles | Unknown | https://www.deezer.com/track/1863880057 |
+| 2026-06-17 | 19:32 | Stars | Elevator Love Letter | Unknown | https://www.deezer.com/track/475034102 |
+| 2026-06-17 | 19:27 | Dry Cleaning | Scratchcard Lanyard | Unknown | https://www.deezer.com/track/1271890452 |
+| 2026-06-17 | 19:19 | Tame Impala | Loser | Unknown | https://www.deezer.com/track/3602329332 |
+| 2026-06-17 | 19:12 | The Hives | Enough Is Enough | Unknown | https://www.deezer.com/track/3288912721 |
+| 2026-06-17 | 19:09 | TV on the Radio | Happy Idiot | Unknown | https://www.deezer.com/track/89310471 |
+| 2026-06-17 | 19:04 | Phoenix | If I Ever Feel Better | Unknown | https://www.deezer.com/track/3135336 |
+| 2026-06-17 | 19:01 | Metric | Victim Of Luck | Unknown | https://www.deezer.com/track/3720389752 |
+| 2026-06-17 | 18:58 | Robin S | Show Me Love | Unknown | https://www.deezer.com/track/6628158 |
+| 2026-06-17 | 18:52 | Crazy P | You Started Something | Unknown | https://www.deezer.com/track/67736352 |
+| 2026-06-17 | 18:43 | Mohinder Kaur Bhamra | GIDDHA PAO HAAN DEO | Unknown | https://www.deezer.com/track/1698910887 |
+| 2026-06-17 | 18:40 | Tarkan | Simarik | Unknown | https://www.deezer.com/track/16412330 |
+| 2026-06-17 | 18:36 | Asha Bhosle | Dum Maro Dum | Unknown | https://www.deezer.com/track/2222901277 |
+| 2026-06-17 | 18:33 | Raúl Orellana | The Real Wild House | Unknown | https://www.deezer.com/track/465946862 |
+| 2026-06-17 | 18:26 | My Friend Sam | It's My Pleasure | Unknown | https://www.deezer.com/track/477225862 |
+| 2026-06-17 | 18:23 | Adeva | Don't Let It Show | Unknown | https://www.deezer.com/track/1799069417 |
+| 2026-06-17 | 18:08 | Rozalla | Everybody's Free (To Feel Good) | Unknown | https://www.deezer.com/track/3324866971 |
+| 2026-06-17 | 17:43 | Lead Belly | Roberta | Unknown | https://www.deezer.com/track/135225538 |
+| 2026-06-17 | 17:38 | LYR | The Goldilocks Zone | Unknown | https://www.deezer.com/track/3720345292 |
+| 2026-06-17 | 17:34 | Elliott Smith | Son Of Sam | Unknown | https://www.deezer.com/track/2285236 |
+| 2026-06-17 | 17:02 | Ministry | Jesus Built My Hotrod | Unknown | https://www.deezer.com/track/724904 |
+| 2026-06-17 | 16:47 | Stevie Wonder | He's Misstra Know-It-All | Unknown | https://www.deezer.com/track/2319301 |
+| 2026-06-17 | 16:43 | Jon Spencer | Mr. Lion | Unknown | https://www.deezer.com/track/3926392761 |
+| 2026-06-17 | 16:41 | The Fall | Psycho Mafia | Unknown | https://www.deezer.com/track/1352312662 |
+| 2026-06-17 | 16:24 | Killing Joke | Sun Goes Down | Unknown | https://www.deezer.com/track/2374844065 |
+| 2026-06-17 | 16:21 | Richard Hell & the Voidoids | Love Comes in Spurts | Unknown | https://www.deezer.com/track/459670602 |
+| 2026-06-17 | 16:00 | Notsensibles | I Thought You Were Dead | Unknown | https://www.deezer.com/track/3949559671 |
+| 2026-06-17 | 15:36 | Tramhaus | Plovdiv | Unknown | https://www.deezer.com/track/4033781711 |
+| 2026-06-17 | 15:27 | villagerrr | Gleam | Unknown | https://www.deezer.com/track/3788524602 |
+| 2026-06-17 | 15:20 | Baileyrp | for once | Unknown | https://www.deezer.com/track/4046901911 |
+| 2026-06-17 | 15:15 | Ebbb | Side On | Unknown | https://www.deezer.com/track/4058726651 |
+| 2026-06-17 | 15:10 | Cholly | Fungus (Cholly Remix) | Unknown | https://www.deezer.com/track/3984120211 |
+| 2026-06-17 | 14:00 | Johnny Marr | Spin | Unknown | https://www.deezer.com/track/4058784451 |
+| 2026-06-17 | 13:57 | Run Logan Run & Gina Leonard | To A God (Compassion) | Unknown | https://www.deezer.com/track/3964534511 |
+| 2026-06-17 | 13:43 | Teenage Fanclub | Alcoholiday | Unknown | https://www.deezer.com/track/96380312 |
+| 2026-06-17 | 13:27 | Hovvdy | Blast | Unknown | https://www.deezer.com/track/4060940831 |
+| 2026-06-17 | 13:19 | Magi Merlin | pixxxie | Unknown | https://www.deezer.com/track/4029301191 |
+| 2026-06-17 | 12:21 | Stetsasonic | Talkin' All That Jazz | Unknown | https://www.deezer.com/track/1587017342 |
+| 2026-06-17 | 12:13 | Los Campesinos! | Avocado, Baby | Unknown | https://www.deezer.com/track/2462775935 |
+| 2026-06-17 | 12:01 | Oasis | Columbia | Unknown | https://www.deezer.com/track/985979422 |
+| 2026-06-17 | 11:57 | Slow Pulp | Better Man | Unknown | https://www.deezer.com/track/4022194891 |
+| 2026-06-17 | 11:53 | Skunk Anansie | Weak | Unknown | https://www.deezer.com/track/7532046 |
+| 2026-06-17 | 11:27 | EELS | Cap In Hand | Unknown | https://www.deezer.com/track/4047772831 |
+| 2026-06-17 | 11:22 | Azari & III | Manic | Unknown | https://www.deezer.com/track/127073871 |
+| 2026-06-17 | 11:04 | Phoenix | Entertainment | Unknown | https://www.deezer.com/track/3025925681 |
+| 2026-06-17 | 11:00 | The Cure | Lovesong | Unknown | https://www.deezer.com/track/409670352 |
+| 2026-06-17 | 10:22 | First Aid Kit | Out Of My Head | Unknown | https://www.deezer.com/track/1858121657 |
+| 2026-06-17 | 10:21 | Chris Wood | Only a Friendly | Unknown | https://www.deezer.com/track/140592497 |
+| 2026-06-17 | 10:12 | Tim van Eyken | Barleycorn | Unknown | https://www.deezer.com/track/1699330947 |
+| 2026-06-17 | 09:58 | Kings of Leon | King Of The Rodeo | Unknown | https://www.deezer.com/track/769466212 |
+| 2026-06-17 | 09:55 | Ghinzu | Morning Lights | Unknown | https://www.deezer.com/track/3769699002 |
+| 2026-06-17 | 09:44 | Leon Vynehall | Midnight on Rainbow Road | Unknown | https://www.deezer.com/track/118077958 |
+| 2026-06-17 | 08:56 | Eric B. & Rakim | Don't Sweat The Technique | Unknown | https://www.deezer.com/track/2300863 |
+| 2026-06-17 | 08:40 | Rival Sons | Wild Animal | Unknown | https://www.deezer.com/track/2822701322 |
+| 2026-06-17 | 08:33 | The Tamlins | Baltimore | Unknown | https://www.deezer.com/track/11562783 |
+| 2026-06-17 | 08:27 | Los Bitchos | Good To Go! | Unknown | https://www.deezer.com/track/2583145352 |
+| 2026-06-17 | 08:10 | Robert Wyatt | I'm A Believer | Unknown | https://www.deezer.com/track/4315760 |
+| 2026-06-17 | 07:55 | New Order | Vanishing Point | Unknown | https://www.deezer.com/track/977719 |
+| 2026-06-17 | 07:26 | Sofia Kourtesis | By Your Side | Unknown | https://www.deezer.com/track/1238919232 |
+| 2026-06-17 | 07:00 | Doves | Pounding | Unknown | https://www.deezer.com/track/5723503 |
+| 2026-06-17 | 06:33 | A Tribe Called Quest | Award Tour | Unknown | https://www.deezer.com/track/13159667 |
+| 2026-06-17 | 06:22 | Dawn Richard & Durand Bernarr | baby, can we? | Unknown | https://www.deezer.com/track/4029723841 |
+| 2026-06-17 | 06:12 | Mantronix | Got To Have Your Love | Unknown | https://www.deezer.com/track/6283556 |
+| 2026-06-17 | 05:56 | Sweet | Block Buster! | Unknown | https://www.deezer.com/track/145199192 |
+| 2026-06-17 | 05:52 | Slade | Coz I Luv You | Unknown | https://www.deezer.com/track/3783195172 |
+| 2026-06-17 | 05:49 | Mott the Hoople | All The Young Dudes | Unknown | https://www.deezer.com/track/13149413 |
+| 2026-06-17 | 05:43 | Suzi Quatro | Can The Can | Unknown | https://www.deezer.com/track/1787688267 |
+| 2026-06-17 | 05:24 | Alabama Shakes | Hang Loose | Unknown | https://www.deezer.com/track/1981014417 |
+| 2026-06-17 | 05:10 | Aaliyah | Are You That Somebody | Unknown | https://www.deezer.com/track/3380594201 |
+| 2026-06-17 | 05:00 | LCD Soundsystem | tonite | Unknown | https://www.deezer.com/track/398897042 |
+| 2026-06-17 | 04:48 | The S.O.S. Band | Just Be Good To Me | Unknown | https://www.deezer.com/track/716523002 |
+| 2026-06-17 | 04:24 | Fleetwood Mac | Monday Morning | Unknown | https://www.deezer.com/track/447760442 |
+| 2026-06-17 | 04:12 | Volbeat | The Devil's Bleeding Crown | Unknown | https://www.deezer.com/track/125968021 |
+| 2026-06-17 | 03:42 | Caribou | Sun | Unknown | https://www.deezer.com/track/371795911 |
+| 2026-06-17 | 03:33 | Glass Animals | Season 2 Episode 3 | Unknown | https://www.deezer.com/track/130851528 |
+| 2026-06-17 | 03:21 | Beck | Girl | Unknown | https://www.deezer.com/track/60724759 |
+| 2026-06-17 | 03:09 | MGMT | It's Working | Unknown | https://www.deezer.com/track/5674805 |
+| 2026-06-17 | 02:45 | The Bees | A Minha Menina | Unknown | https://www.deezer.com/track/6011079 |
+| 2026-06-17 | 02:41 | Go‐Go’s | We Got The Beat | Unknown | https://www.deezer.com/track/2490954011 |
+| 2026-06-17 | 02:38 | Mark Ronson | Ooh Wee (feat. Ghostface Killah & Nate Dogg) | Unknown | https://www.deezer.com/track/8147216 |
+| 2026-06-17 | 02:26 | Jai Paul | Jasmine | Unknown | https://www.deezer.com/track/18071462 |
+| 2026-06-17 | 02:20 | Portishead | Magic Doors | Unknown | https://www.deezer.com/track/4967858 |
+| 2026-06-17 | 01:27 | The Sick Fix | Liquid Gold | Unknown | https://www.deezer.com/track/3993456671 |
+| 2026-06-17 | 01:14 | Chungking | Making Music | Unknown | https://www.deezer.com/track/141454753 |
+| 2026-06-17 | 01:09 | Regina Spektor | Fidelity | Unknown | https://www.deezer.com/track/773586 |
+| 2026-06-17 | 01:00 | Ash | Goldfinger | Unknown | https://www.deezer.com/track/3801373052 |
+| 2026-06-17 | 00:55 | Gene | Olympian | Unknown | https://www.deezer.com/track/2599834 |
+| 2026-06-17 | 00:41 | GANS | NIGHTWALKING | Unknown | https://www.deezer.com/track/3474688201 |
+| 2026-06-17 | 00:32 | Prince | When Doves Cry | Unknown | https://www.deezer.com/track/2806039672 |
+| 2026-06-17 | 00:07 | Broadcast | Corporeal | Unknown | https://www.deezer.com/track/5785701 |
+| 2026-06-17 | 00:01 | Villagers | That Day | Unknown | https://www.deezer.com/track/6164314 |
