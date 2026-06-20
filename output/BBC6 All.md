@@ -5833,3 +5833,120 @@ source: BBC Radio 6
 | 2026-06-19 | 00:43 | Nadine Shah | Ladies For Babies (Goats For Love) | Unknown | https://www.deezer.com/track/3761250932 |
 | 2026-06-19 | 00:23 | STRATA | Mr Procrastinator | Unknown | https://www.deezer.com/track/4084153581 |
 | 2026-06-19 | 00:01 | Young Disciples | Apparently Nothin' | Unknown | https://www.deezer.com/track/2279320267 |
+| 2026-06-20 | 17:45 | NAINA | Body Movement | Unknown | https://www.deezer.com/track/3510174711 |
+| 2026-06-20 | 17:39 | Girls Don't Sync | Keep Dancing | Unknown | https://www.deezer.com/track/3763981712 |
+| 2026-06-20 | 17:35 | ZAINAB | Her Eyes | Unknown | https://www.deezer.com/track/3980586181 |
+| 2026-06-20 | 17:31 | Malix | Free in this House | Unknown | https://www.deezer.com/track/3824129791 |
+| 2026-06-20 | 17:24 | Squarepusher | Port Rhombus | Unknown | https://www.deezer.com/track/29391031 |
+| 2026-06-20 | 17:21 | DJ Crystl | Mindgames | Unknown | https://www.deezer.com/track/71701016 |
+| 2026-06-20 | 17:17 | Marcus Intalex | Temperance | Unknown | https://www.deezer.com/track/2388638565 |
+| 2026-06-20 | 17:14 | Universal | Groove Therapy | Unknown | https://www.deezer.com/track/3432191241 |
+| 2026-06-20 | 17:09 | Parallax | Watercolours | Unknown | https://www.deezer.com/track/2241496337 |
+| 2026-06-20 | 17:01 | PHD & The Funky Technicians | Above & Beyond | Unknown | https://www.deezer.com/track/71701001 |
+| 2026-06-20 | 16:57 | Ken Ishii | Stretch (Shogun Remix) | Unknown | https://www.deezer.com/track/123372880 |
+| 2026-06-20 | 16:52 | Source Direct | Approach & Identify | Unknown | https://www.deezer.com/track/2204294507 |
+| 2026-06-20 | 16:48 | GiGi FM | Shelter Our Time | Unknown | https://www.deezer.com/track/3881286251 |
+| 2026-06-20 | 16:39 | Willie Colón & Héctor Lavoe | Barrunto | Unknown | https://www.deezer.com/track/3136001531 |
+| 2026-06-20 | 16:34 | Subjects | Radiance | Unknown | https://www.deezer.com/track/1785271017 |
+| 2026-06-20 | 16:28 | Klute | Leo 9 | Unknown | https://www.deezer.com/track/1237065142 |
+| 2026-06-20 | 16:24 | Fokus | Pulse | Unknown | https://www.deezer.com/track/1083582152 |
+| 2026-06-20 | 16:20 | Nookie | You Can't Hold Me Back | Unknown | https://www.deezer.com/track/1856566397 |
+| 2026-06-20 | 16:18 | GiGi FM | I Run | Unknown | https://www.deezer.com/track/3881286261 |
+| 2026-06-20 | 16:13 | Lemon D | Something I Feel | Unknown | https://www.deezer.com/track/2348366535 |
+| 2026-06-20 | 16:10 | Tim Reaper & Kloke | Poseidon | Unknown | https://www.deezer.com/track/4002954261 |
+| 2026-06-20 | 16:07 | Tim Reaper & Nectax | Dubsiren From South Shields | Unknown | https://www.deezer.com/track/4002954271 |
+| 2026-06-20 | 16:03 | Voyager | Hypersleep (97 Revamp) | Unknown | https://www.deezer.com/track/125063046 |
+| 2026-06-20 | 16:00 | Frank De Wulf | Drums in a Grip (Wax Doctor Remix) | Unknown | https://www.deezer.com/track/850929522 |
+| 2026-06-20 | 15:54 | Leonar | Ulazer | Unknown | https://www.deezer.com/track/4034103961 |
+| 2026-06-20 | 15:51 | Prince | Stone | Unknown | https://www.deezer.com/track/4058382721 |
+| 2026-06-20 | 15:44 | Stretch | Why Did You Do It | Unknown | https://www.deezer.com/track/35116831 |
+| 2026-06-20 | 15:41 | Love Unlimited Orchestra | Love's Theme | Unknown | https://www.deezer.com/track/537988652 |
+| 2026-06-20 | 15:38 | Alexander IV | Génie | Unknown | https://www.deezer.com/track/3558142611 |
+| 2026-06-20 | 15:31 | Local Natives | Ceilings | Unknown | https://www.deezer.com/track/954056732 |
+| 2026-06-20 | 15:22 | Bobby Charles | Small Town Talk | Unknown | https://www.deezer.com/track/1190425 |
+| 2026-06-20 | 15:14 | The Hempolics | Aht Uh Mi Hed | Unknown | https://www.deezer.com/track/3982509681 |
+| 2026-06-20 | 15:09 | Don Cherry | Brown Rice | Unknown | https://www.deezer.com/track/672221172 |
+| 2026-06-20 | 14:36 | Cooper T | Pitchfork | Unknown | https://www.deezer.com/track/4007157641 |
+| 2026-06-20 | 14:08 | Tom Tom Club | The Man With the 4-Way Hips | Unknown | https://www.deezer.com/track/490179502 |
+| 2026-06-20 | 13:53 | Diana Ross | Ain't No Mountain High Enough | Unknown | https://www.deezer.com/track/1176293 |
+| 2026-06-20 | 13:49 | Gervis Myles | Element Of Love | Unknown | https://www.deezer.com/track/1781002327 |
+| 2026-06-20 | 13:38 | Delegation | You And I | Unknown | https://www.deezer.com/track/113181376 |
+| 2026-06-20 | 13:27 | Ronnie Foster | Mystic Brew | Unknown | https://www.deezer.com/track/1761368997 |
+| 2026-06-20 | 13:23 | Cleo Sol | Don't Let Me Fall | Unknown | https://www.deezer.com/track/1473010652 |
+| 2026-06-20 | 13:17 | Penny Goodwin | Too Soon You're Old | Unknown | https://www.deezer.com/track/134276812 |
+| 2026-06-20 | 13:15 | Jackson Sisters | Boy, You're Dynamite | Unknown | https://www.deezer.com/track/2645694052 |
+| 2026-06-20 | 13:12 | Betty Everett | I Got To Tell Somebody | Unknown | https://www.deezer.com/track/2154514 |
+| 2026-06-20 | 13:09 | I Marc 4 | Candy | Unknown | https://www.deezer.com/track/621930932 |
+| 2026-06-20 | 13:03 | Booker T. & The M.G.'s | Hip Hug Her | Unknown | https://www.deezer.com/track/677899 |
+| 2026-06-20 | 12:52 | Con Funk Shun | Got To Be Enough | Unknown | https://www.deezer.com/track/1761358837 |
+| 2026-06-20 | 12:46 | Nolan Chance | Just Like The Weather | Unknown | https://www.deezer.com/track/938796172 |
+| 2026-06-20 | 12:38 | ERIN collective | Freedom Calling | Unknown | https://www.deezer.com/track/3870848031 |
+| 2026-06-20 | 12:26 | Mable John | Catch That Man | Unknown | https://www.deezer.com/track/4126004 |
+| 2026-06-20 | 12:00 | Betty Everett | Getting Mighty Crowded | Unknown | https://www.deezer.com/track/1571082102 |
+| 2026-06-20 | 11:56 | The Brothers Johnson | Light Up The Night | Unknown | https://www.deezer.com/track/549309092 |
+| 2026-06-20 | 11:55 | Jalen Ngonda | Hang It On The Shelf | Unknown | https://www.deezer.com/track/3801750322 |
+| 2026-06-20 | 11:50 | Cameo | Attack With Me Your Love (Club Mix) | Unknown | https://www.deezer.com/track/7375801 |
+| 2026-06-20 | 11:41 | George McCrae | You Can Have It All | Unknown | https://www.deezer.com/track/124563042 |
+| 2026-06-20 | 11:37 | Aquarian Dream | Fantasy | Unknown | https://www.deezer.com/track/3663956 |
+| 2026-06-20 | 11:33 | Carla Thomas | B-A-B-Y | Unknown | https://www.deezer.com/track/82411468 |
+| 2026-06-20 | 11:26 | Maxayn | You Can't Always Get What You Want | Unknown | https://www.deezer.com/track/1596337732 |
+| 2026-06-20 | 11:08 | The S.O.S. Band | Groovin' (That's What We're Doin') | Unknown | https://www.deezer.com/track/716523072 |
+| 2026-06-20 | 07:45 | TSVI | Turbo Motion | Unknown | https://www.deezer.com/track/3882817211 |
+| 2026-06-20 | 07:42 | DJ JM | Rat Race | Unknown | https://www.deezer.com/track/3883446471 |
+| 2026-06-20 | 07:33 | Elisa Elisa | Rave Call | Unknown | https://www.deezer.com/track/2447301505 |
+| 2026-06-20 | 07:28 | Surusinghe & Warrior Queen | Party Criminal | Unknown | https://www.deezer.com/track/3950292591 |
+| 2026-06-20 | 07:12 | Carré & Bbyafricka | Hibiscus | Unknown | https://www.deezer.com/track/3653885732 |
+| 2026-06-20 | 07:09 | Tatyana Jane | Brutal | Unknown | https://www.deezer.com/track/4030879211 |
+| 2026-06-20 | 07:06 | Ehua & Flore | Rit | Unknown | https://www.deezer.com/track/3923289261 |
+| 2026-06-20 | 07:00 | Candy Coup & Entrañas | Campo Alegre | Unknown | https://www.deezer.com/track/4014709481 |
+| 2026-06-20 | 06:52 | Msindaba Jazz Band | Msindaba | Unknown | https://www.deezer.com/track/3971574421 |
+| 2026-06-20 | 06:43 | Eternal Love | Nakarap (Esa's Afro-Synth Band Version) | Unknown | https://www.deezer.com/track/3764881972 |
+| 2026-06-20 | 06:37 | Moskito | Sdudla | Unknown | https://www.deezer.com/track/3211984271 |
+| 2026-06-20 | 06:35 | LEENALCHI | Here Comes That Crow | Unknown | https://www.deezer.com/track/3947939021 |
+| 2026-06-20 | 06:32 | Art de Coteau | Kerieka Woman | Unknown | https://www.deezer.com/track/3879129681 |
+| 2026-06-20 | 06:16 | Lightning Head | Me & Me Princess | Unknown | https://www.deezer.com/track/697368992 |
+| 2026-06-20 | 06:06 | François K & Dimitri From Paris | Steppers Revenge | Unknown | https://www.deezer.com/track/3696140462 |
+| 2026-06-20 | 06:01 | Tony Tuff | I Don't Care What The People Say | Unknown | https://www.deezer.com/track/3678107532 |
+| 2026-06-20 | 05:56 | OutKast | Rosa Parks | Unknown | https://www.deezer.com/track/962886 |
+| 2026-06-20 | 05:52 | Kokoroko | Da Du Dah | Unknown | https://www.deezer.com/track/3299231331 |
+| 2026-06-20 | 05:50 | Jessie Ware | Automatic | Unknown | https://www.deezer.com/track/3911164971 |
+| 2026-06-20 | 05:42 | TLC | Diggin' On You | Unknown | https://www.deezer.com/track/1043882 |
+| 2026-06-20 | 05:38 | Depeche Mode | Wagging Tongue | Unknown | https://www.deezer.com/track/2203846867 |
+| 2026-06-20 | 05:26 | Cat Power | Lived In Bars | Unknown | https://www.deezer.com/track/944882 |
+| 2026-06-20 | 05:15 | Luscious Jackson | Naked Eye | Unknown | https://www.deezer.com/track/3110605 |
+| 2026-06-20 | 05:12 | Lee Dorsey | Working In A Coal Mine | Unknown | https://www.deezer.com/track/1619021 |
+| 2026-06-20 | 05:09 | Material Issue | Valerie Loves Me | Unknown | https://www.deezer.com/track/1762492187 |
+| 2026-06-20 | 05:01 | Elton John & Kiki Dee | Don't Go Breaking My Heart | Unknown | https://www.deezer.com/track/1162676 |
+| 2026-06-20 | 04:56 | Shannon and the Clams | Big Wheel | Unknown | https://www.deezer.com/track/3243831451 |
+| 2026-06-20 | 04:51 | Chromatics | Into The Black | Unknown | https://www.deezer.com/track/878307722 |
+| 2026-06-20 | 04:40 | Jeshi | Protein (feat. Obongjayar) | Unknown | https://www.deezer.com/track/1645034912 |
+| 2026-06-20 | 04:37 | Odyssey | Native New Yorker | Unknown | https://www.deezer.com/track/428984982 |
+| 2026-06-20 | 04:33 | Groove Armada | Easy | Unknown | https://www.deezer.com/track/539100 |
+| 2026-06-20 | 04:27 | Gilbert O’Sullivan | Nothing Rhymed | Unknown | https://www.deezer.com/track/3783010562 |
+| 2026-06-20 | 04:21 | Jack & the Mods | Don't Wake Me Up | Unknown | https://www.deezer.com/track/712015222 |
+| 2026-06-20 | 04:17 | Nuha Ruby Ra | Sparky | Unknown | https://www.deezer.com/track/1130409502 |
+| 2026-06-20 | 04:06 | Meat Beat Manifesto | Radio Babylon | Unknown | https://www.deezer.com/track/16625765 |
+| 2026-06-20 | 04:03 | Chaka Demus & Pliers | Murder She Wrote | Unknown | https://www.deezer.com/track/1178340 |
+| 2026-06-20 | 03:56 | Ibibio Sound Machine | The Talking Fish (Asem Usem Iyak) | Unknown | https://www.deezer.com/track/3550575461 |
+| 2026-06-20 | 03:53 | Book of Love | Boy | Unknown | https://www.deezer.com/track/6586835 |
+| 2026-06-20 | 03:49 | Ludacris | Rollout (My Business) | Unknown | https://www.deezer.com/track/2534214 |
+| 2026-06-20 | 03:41 | Bikini Kill | R.I.P. | Unknown | https://www.deezer.com/track/550171222 |
+| 2026-06-20 | 03:37 | James Brown | People Get Up and Drive Your Funky Soul | Unknown | https://www.deezer.com/track/7024825 |
+| 2026-06-20 | 03:24 | The Roches | Losing True | Unknown | https://www.deezer.com/track/5617806 |
+| 2026-06-20 | 03:22 | Lava La Rue | Scratches | Unknown | https://www.deezer.com/track/3837420741 |
+| 2026-06-20 | 03:04 | Slim Smith | Sitting In The Park | Unknown | https://www.deezer.com/track/1768932897 |
+| 2026-06-20 | 02:44 | The Blues Project | Flute Thing | Unknown | https://www.deezer.com/track/102555958 |
+| 2026-06-20 | 02:38 | The Temptations | Who You Gonna Run To | Unknown | https://www.deezer.com/track/7380059 |
+| 2026-06-20 | 02:01 | Killing Joke | Love Like Blood | Unknown | https://www.deezer.com/track/2217199357 |
+| 2026-06-20 | 01:47 | Pete Fij | Don't Bring Me Sunshine | Unknown | https://www.deezer.com/track/4016230671 |
+| 2026-06-20 | 01:18 | The Move | I Can Hear The Grass Grow | Unknown | https://www.deezer.com/track/2391903325 |
+| 2026-06-20 | 00:56 | The Cure | Lullaby | Unknown | https://www.deezer.com/track/14637317 |
+| 2026-06-20 | 00:45 | George FitzGerald & Lil Silva | Roll Back | Unknown | https://www.deezer.com/track/438740482 |
+| 2026-06-20 | 00:33 | Frank Ocean | Ivy | Unknown | https://www.deezer.com/track/717273852 |
+| 2026-06-20 | 00:23 | Sampha | Too Much | Unknown | https://www.deezer.com/track/70697291 |
+| 2026-06-20 | 00:21 | The Alfred Newman Orchestra | Liebestraum / Liebestraum 2 | Unknown | https://www.deezer.com/track/7036665 |
+| 2026-06-20 | 00:20 | The Alfred Newman Orchestra | A Theme for Piano | Unknown | https://www.deezer.com/track/7036664 |
+| 2026-06-20 | 00:19 | The Alfred Newman Orchestra | The Party | Unknown | https://www.deezer.com/track/7036663 |
+| 2026-06-20 | 00:18 | The Alfred Newman Orchestra | The Award | Unknown | https://www.deezer.com/track/7036658 |
+| 2026-06-20 | 00:15 | The Velvet Underground & Nico | Femme Fatale | Unknown | https://www.deezer.com/track/61292501 |
+| 2026-06-20 | 00:03 | Naughty by Nature | Hip Hop Hooray | Unknown | https://www.deezer.com/track/1584431742 |
