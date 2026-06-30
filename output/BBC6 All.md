@@ -6861,3 +6861,50 @@ source: BBC Radio 6
 | 2026-06-29 | 01:22 | DJ Rolando | Knights of the Jaguar | Unknown | https://www.deezer.com/track/11899030 |
 | 2026-06-29 | 00:50 | Gwenno | Eus Keus? | Unknown | https://www.deezer.com/track/467049062 |
 | 2026-06-29 | 00:34 | Dead Kennedys | California Uber Alles | Unknown | https://www.deezer.com/track/2931010581 |
+| 2026-06-30 | 15:42 | Born At Midnite | I Haven't Forgotten You | Unknown | https://www.deezer.com/track/3897081791 |
+| 2026-06-30 | 15:15 | Alien Chicks | Get Ur Freak On | Unknown | https://www.deezer.com/track/4016249271 |
+| 2026-06-30 | 15:07 | thistle. | city, name | Unknown | https://www.deezer.com/track/3820022581 |
+| 2026-06-30 | 15:03 | Dinosaur Jr. | Several Got Away | Unknown | https://www.deezer.com/track/4059473151 |
+| 2026-06-30 | 14:50 | ill peach | Small Talk | Unknown | https://www.deezer.com/track/3922472791 |
+| 2026-06-30 | 14:02 | Adult DVD | Cowboy On Aisle Three | Unknown | https://www.deezer.com/track/4059202061 |
+| 2026-06-30 | 14:01 | Sailor Honeymoon | I Wanna Leave You | Unknown | https://www.deezer.com/track/4100022151 |
+| 2026-06-30 | 13:47 | Broadcast | Echo's Answer | Unknown | https://www.deezer.com/track/29374681 |
+| 2026-06-30 | 13:28 | beabadoobee | Glue Song | Unknown | https://www.deezer.com/track/2124039437 |
+| 2026-06-30 | 12:56 | Simple Minds | Life In A Day | Unknown | https://www.deezer.com/track/3171328 |
+| 2026-06-30 | 12:53 | The Anchoress & James Dean Bradfield | Throw Over Your Man | Unknown | https://www.deezer.com/track/3983475681 |
+| 2026-06-30 | 12:42 | Beyoncé | COZY | Unknown | https://www.deezer.com/track/1842063467 |
+| 2026-06-30 | 12:24 | SOPHIE | LEMONADE | Unknown | https://www.deezer.com/track/1054951692 |
+| 2026-06-30 | 11:33 | Pavement | Cut Your Hair | Unknown | https://www.deezer.com/track/948331 |
+| 2026-06-30 | 11:11 | Spiritualized | Do It All Over Again | Unknown | https://www.deezer.com/track/901609892 |
+| 2026-06-30 | 10:45 | Grian Chatten | Fairlies | Unknown | https://www.deezer.com/track/3124731271 |
+| 2026-06-30 | 10:17 | Kate Rusby | Benjamin Bowmaneer | Unknown | https://www.deezer.com/track/2330976065 |
+| 2026-06-30 | 10:13 | Stornoway | Zorbing | Unknown | https://www.deezer.com/track/66537237 |
+| 2026-06-30 | 10:07 | hey, nothing | Arteries | Unknown | https://www.deezer.com/track/4060444241 |
+| 2026-06-30 | 09:49 | Bent | Private Road | Unknown | https://www.deezer.com/track/1040016822 |
+| 2026-06-30 | 09:45 | The War on Drugs | Thinking of a Place | Unknown | https://www.deezer.com/track/395723782 |
+| 2026-06-30 | 09:12 | Black Box | Ride On Time | Unknown | https://www.deezer.com/track/70051871 |
+| 2026-06-30 | 08:46 | R.E.M. | The Great Beyond | Unknown | https://www.deezer.com/track/121922378 |
+| 2026-06-30 | 08:42 | Hollie Cook | Shy Dub | Unknown | https://www.deezer.com/track/3760463982 |
+| 2026-06-30 | 08:34 | Sounds of Blackness | Optimistic | Unknown | https://www.deezer.com/track/1762423137 |
+| 2026-06-30 | 08:28 | Roxy Music | Street Life | Unknown | https://www.deezer.com/track/3134815 |
+| 2026-06-30 | 07:26 | Yello | Bostich | Unknown | https://www.deezer.com/track/131741606 |
+| 2026-06-30 | 07:01 | The Duke Spirit | Cuts Across The Land | Unknown | https://www.deezer.com/track/3827515291 |
+| 2026-06-30 | 06:35 | King Krule | Time For Slurp | Unknown | https://www.deezer.com/track/2825090762 |
+| 2026-06-30 | 06:01 | Paris Brightledge & Sterling Void | It's Alright | Unknown | https://www.deezer.com/track/1663523602 |
+| 2026-06-30 | 05:39 | Fast Eddie | Acid Thunder | Unknown | https://www.deezer.com/track/3590066391 |
+| 2026-06-30 | 05:20 | Bobby Womack | Please Forgive My Heart | Unknown | https://www.deezer.com/track/32936041 |
+| 2026-06-30 | 05:16 | LoneLady | (There Is) No Logic | Unknown | https://www.deezer.com/track/1287745702 |
+| 2026-06-30 | 04:57 | Foxy Brown | Foxy's Bells | Unknown | https://www.deezer.com/track/60725758 |
+| 2026-06-30 | 03:53 | Sharon Van Etten | Taking Chances | Unknown | https://www.deezer.com/track/78240207 |
+| 2026-06-30 | 03:49 | Miss Kittin & The Hacker | The Beach | Unknown | https://www.deezer.com/track/104189468 |
+| 2026-06-30 | 03:12 | NZCA LINES | Two Hearts | Unknown | https://www.deezer.com/track/110316142 |
+| 2026-06-30 | 03:08 | Basement Jaxx | Raindrops | Unknown | https://www.deezer.com/track/3578986 |
+| 2026-06-30 | 03:05 | The Strokes | Machu Picchu | Unknown | https://www.deezer.com/track/10101601 |
+| 2026-06-30 | 02:50 | Hot Chip | Eleanor | Unknown | https://www.deezer.com/track/1703373177 |
+| 2026-06-30 | 02:47 | Laura Marling | Strange Girl | Unknown | https://www.deezer.com/track/3837055841 |
+| 2026-06-30 | 02:11 | Mazzy Star | Fade Into You | Unknown | https://www.deezer.com/track/3360821 |
+| 2026-06-30 | 01:44 | Lava La Rue | Vest & Boxers | Unknown | https://www.deezer.com/track/2061260147 |
+| 2026-06-30 | 01:35 | Talk Talk | Life's What You Make It | Unknown | https://www.deezer.com/track/3136910 |
+| 2026-06-30 | 00:57 | Mystery Jets | You Had Me At Hello | Unknown | https://www.deezer.com/track/17883619 |
+| 2026-06-30 | 00:35 | Supergrass | Pumping On Your Stereo | Unknown | https://www.deezer.com/track/3785266072 |
+| 2026-06-30 | 00:19 | Bloc Party | One Month Off | Unknown | https://www.deezer.com/track/14617741 |
