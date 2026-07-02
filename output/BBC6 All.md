@@ -6908,3 +6908,113 @@ source: BBC Radio 6
 | 2026-06-30 | 00:57 | Mystery Jets | You Had Me At Hello | Unknown | https://www.deezer.com/track/17883619 |
 | 2026-06-30 | 00:35 | Supergrass | Pumping On Your Stereo | Unknown | https://www.deezer.com/track/3785266072 |
 | 2026-06-30 | 00:19 | Bloc Party | One Month Off | Unknown | https://www.deezer.com/track/14617741 |
+| 2026-07-01 | Live | Aphex Twin | aisatsana | Unknown | https://www.deezer.com/track/85900443 |
+| 2026-07-01 | 19:52 | Burial | Endorphin | Unknown | https://www.deezer.com/track/80546734 |
+| 2026-07-01 | 19:49 | Aphex Twin | #6 | Unknown | https://www.deezer.com/track/85900417 |
+| 2026-07-01 | 19:44 | Andrea Nagy | New York Counterpoint (Version for Clarinet & Tape): I. Quarter Note = 18 | Unknown | https://www.deezer.com/track/2780849771 |
+| 2026-07-01 | 19:44 | Tim Hecker | Harmony in Blue II | Unknown | https://www.deezer.com/track/62319178 |
+| 2026-07-01 | 19:38 | Mount Kimbie | Maybes | Unknown | https://www.deezer.com/track/74686854 |
+| 2026-07-01 | 19:32 | William Basinski | Vivian & Ondine 1.1 | Unknown | https://www.deezer.com/track/2253503787 |
+| 2026-07-01 | 19:29 | Jóhann Jóhannsson | Odi Et Amo | Unknown | https://www.deezer.com/track/3603985022 |
+| 2026-07-01 | 19:26 | James Blake | Waves Know Shores | Unknown | https://www.deezer.com/track/124237630 |
+| 2026-07-01 | 19:24 | Mount Kimbie | Tunnelvision | Unknown | https://www.deezer.com/track/74686833 |
+| 2026-07-01 | 19:21 | Ryuichi Sakamoto & Oneohtrix Point Never, Ryuichi Sakamoto & Oneohtrix Point Never | andata (Oneohtrix Point Never Remodel) | Unknown | https://www.deezer.com/track/925099952 |
+| 2026-07-01 | 19:12 | Lukid | Chord | Unknown | https://www.deezer.com/track/623338152 |
+| 2026-07-01 | 19:08 | Mount Kimbie | Ode to Bear | Unknown | https://www.deezer.com/track/74686840 |
+| 2026-07-01 | 19:04 | Grouper | Alien Observer | Unknown | https://www.deezer.com/track/64439924 |
+| 2026-07-01 | 18:57 | Todd Edwards | Wishing I Were Home | Unknown | https://www.deezer.com/track/3156080531 |
+| 2026-07-01 | 18:51 | Shinichi Atobe | Love Of Plastic 1 | Unknown | https://www.deezer.com/track/1625706922 |
+| 2026-07-01 | 18:46 | Robert Hood | The Family | Unknown | https://www.deezer.com/track/12299345 |
+| 2026-07-01 | 18:44 | DJ Tray | I Tote (Jersey Club) | Unknown | https://www.deezer.com/track/2044889187 |
+| 2026-07-01 | 18:39 | James Blake | I Hope My Life (1-800 Mix) | Unknown | https://www.deezer.com/track/124237628 |
+| 2026-07-01 | 18:35 | James Blake | Loading | Unknown | https://www.deezer.com/track/2435115865 |
+| 2026-07-01 | 18:30 | DJ Khalipha | Mara pass Mara Beat | Unknown | https://www.deezer.com/track/3592571452 |
+| 2026-07-01 | 18:24 | Kerri Chandler | Rain (Original Mix) | Unknown | https://www.deezer.com/track/63413893 |
+| 2026-07-01 | 18:13 | Harold Melvin & The Blue Notes | The Love I Lost (feat. Teddy Pendergrass) | Unknown | https://www.deezer.com/track/1081287 |
+| 2026-07-01 | 18:07 | Floorplan | Tell You No Lie | Unknown | https://www.deezer.com/track/122384554 |
+| 2026-07-01 | 17:50 | The Bug & Flowdan | Jah War | Unknown | https://www.deezer.com/track/66225689 |
+| 2026-07-01 | 17:42 | James Blake | Air & Lack Thereof | Unknown | https://www.deezer.com/track/83078110 |
+| 2026-07-01 | 17:38 | Peverelist | Roll With The Punches | Unknown | https://www.deezer.com/track/407856342 |
+| 2026-07-01 | 17:19 | Mala & Spen G | Anti War Dub | Unknown | https://www.deezer.com/track/1397907082 |
+| 2026-07-01 | 17:14 | Coki | Tortured | Unknown | https://www.deezer.com/track/3187296841 |
+| 2026-07-01 | 17:05 | Horsepower Productions | Boogaloo | Unknown | https://www.deezer.com/track/3187276481 |
+| 2026-07-01 | 17:01 | Artwork | Red | Unknown | https://www.deezer.com/track/2490790261 |
+| 2026-07-01 | 16:57 | Travis Scott | the ends | Unknown | https://www.deezer.com/track/132201180 |
+| 2026-07-01 | 16:51 | Vince Staples | Big Time | Unknown | https://www.deezer.com/track/130887104 |
+| 2026-07-01 | 16:48 | Vince Staples | War Ready | Unknown | https://www.deezer.com/track/130887094 |
+| 2026-07-01 | 16:39 | Frank Ocean | Solo | Unknown | https://www.deezer.com/track/717273882 |
+| 2026-07-01 | 16:35 | Kendrick Lamar | ELEMENT. | Unknown | https://www.deezer.com/track/350171271 |
+| 2026-07-01 | 16:32 | ROSALÍA | DIABLO | Unknown | https://www.deezer.com/track/1685337787 |
+| 2026-07-01 | 16:28 | Travis Scott | STOP TRYING TO BE GOD | Unknown | https://www.deezer.com/track/536421022 |
+| 2026-07-01 | 16:18 | Dave & James Blake | History | Unknown | https://www.deezer.com/track/3616144072 |
+| 2026-07-01 | 16:04 | Freddie Gibbs | Dark Hearted | Unknown | https://www.deezer.com/track/1980006947 |
+| 2026-07-01 | 15:59 | Margenrot | Seance | Unknown | https://www.deezer.com/track/4050564541 |
+| 2026-07-01 | 15:56 | PAWS | ur love | Unknown | https://www.deezer.com/track/4003488881 |
+| 2026-07-01 | 15:51 | Tara Clerkin Trio | Slow Island | Unknown | https://www.deezer.com/track/3855880601 |
+| 2026-07-01 | 15:45 | The Specials | Friday Night, Saturday Morning | Unknown | https://www.deezer.com/track/1787369037 |
+| 2026-07-01 | 15:24 | Glasshouse Red Spider Mite | Hell 1000 | Unknown | https://www.deezer.com/track/4023501571 |
+| 2026-07-01 | 15:21 | Gurriers | Party Lines | Unknown | https://www.deezer.com/track/4034714701 |
+| 2026-07-01 | 15:10 | FearDorian & Tony Bontana | spoof | Unknown | https://www.deezer.com/track/4036151251 |
+| 2026-07-01 | 15:01 | Channel Tres | Black Techno Guy | Unknown | https://www.deezer.com/track/4063015661 |
+| 2026-07-01 | 14:37 | Westside Cowboy | Pin Up Boys | Unknown | https://www.deezer.com/track/4115976051 |
+| 2026-07-01 | 14:21 | Ubunto | O Vento Part. As Ganhadeiras de Itapuã | Unknown | https://www.deezer.com/track/3931900481 |
+| 2026-07-01 | 14:16 | Moses Boyd | Say Yeah | Unknown | https://www.deezer.com/track/4101951261 |
+| 2026-07-01 | 14:04 | Pol | Sex Machines | Unknown | https://www.deezer.com/track/4060150201 |
+| 2026-07-01 | 14:01 | Fat Dog | Cancel Me (I'm Tired) | Unknown | https://www.deezer.com/track/4052872761 |
+| 2026-07-02 | 13:48 | Swim Deep | Such A Fool | Unknown | https://www.deezer.com/track/3824341271 |
+| 2026-07-02 | 12:55 | JJerome87 | Green Velvet | Unknown | https://www.deezer.com/track/3837293631 |
+| 2026-07-02 | 12:34 | The Horrors | Still Life | Unknown | https://www.deezer.com/track/66539043 |
+| 2026-07-02 | 12:23 | George Clinton | Atomic Dog | Unknown | https://www.deezer.com/track/3469988 |
+| 2026-07-02 | 12:04 | Talk Talk | Talk Talk | Unknown | https://www.deezer.com/track/679401 |
+| 2026-07-02 | 12:01 | The Strokes | Hard To Explain | Unknown | https://www.deezer.com/track/15615271 |
+| 2026-07-02 | 11:57 | Koj | Punk Panther | Unknown | https://www.deezer.com/track/4042682281 |
+| 2026-07-02 | 11:54 | Amyl and the Sniffers | Cup Of Destiny | Unknown | https://www.deezer.com/track/675020642 |
+| 2026-07-02 | 11:46 | Mount Kimbie | Boxing (feat. King Krule) | Unknown | https://www.deezer.com/track/2606844222 |
+| 2026-07-02 | 11:33 | TLC | Creep | Unknown | https://www.deezer.com/track/1043879 |
+| 2026-07-02 | 11:14 | Ciccone Youth | Into the Groovey | Unknown | https://www.deezer.com/track/104234074 |
+| 2026-07-02 | 10:57 | Manic Street Preachers | Kevin Carter | Unknown | https://www.deezer.com/track/15754390 |
+| 2026-07-02 | 10:41 | Downtown Boys | Yellow Sun | Unknown | https://www.deezer.com/track/3863066821 |
+| 2026-07-02 | 10:21 | Moss Valley | Divine | Unknown | https://www.deezer.com/track/3620964502 |
+| 2026-07-02 | 10:19 | Ancient Good Stuff | Your Worst Nightmare | Unknown | https://www.deezer.com/track/3620964492 |
+| 2026-07-02 | 10:17 | Box Wine | Useless | Unknown | https://www.deezer.com/track/3620964462 |
+| 2026-07-02 | 10:08 | Average White Band | Cut The Cake | Unknown | https://www.deezer.com/track/119182922 |
+| 2026-07-02 | 09:34 | Courtney Barnett | Nameless, Faceless | Unknown | https://www.deezer.com/track/3875499591 |
+| 2026-07-02 | 09:26 | Talking Heads | Crosseyed And Painless | Unknown | https://www.deezer.com/track/5093670 |
+| 2026-07-02 | 09:20 | Brand Nubian | All for One | Unknown | https://www.deezer.com/track/1584613442 |
+| 2026-07-02 | 09:17 | Jake Bugg | Trouble Town | Unknown | https://www.deezer.com/track/1952800627 |
+| 2026-07-02 | 09:06 | Jai Paul | He | Unknown | https://www.deezer.com/track/689384052 |
+| 2026-07-02 | 09:00 | Amy Winehouse | Love Is A Losing Game | Unknown | https://www.deezer.com/track/2176857 |
+| 2026-07-02 | 08:28 | Joy Lovejoy | In Orbit | Unknown | https://www.deezer.com/track/445249952 |
+| 2026-07-02 | 08:12 | Happy Mondays | Hallelujah (Club Mix) | Unknown | https://www.deezer.com/track/428804372 |
+| 2026-07-02 | 07:58 | The Rolling Stones | Have You Seen Your Mother, Baby, Standing in the Shadow? | Unknown | https://www.deezer.com/track/2445270325 |
+| 2026-07-02 | 07:55 | Tyler Ballgame | Help Me Out | Unknown | https://www.deezer.com/track/3327585801 |
+| 2026-07-02 | 07:41 | Chanpan | jesus in china (overflow) | Unknown | https://www.deezer.com/track/3952304091 |
+| 2026-07-02 | 07:34 | The Clash | Should I Stay Or Should I Go | Unknown | https://www.deezer.com/track/69962764 |
+| 2026-07-02 | 07:18 | WITCH | Queenless King | Unknown | https://www.deezer.com/track/3209751711 |
+| 2026-07-02 | 07:10 | Interpol | This Mirror Weighs A Ton | Unknown | https://www.deezer.com/track/4020540711 |
+| 2026-07-02 | 07:00 | James Blake | Can't Believe The Way We Flow | Unknown | https://www.deezer.com/track/668935002 |
+| 2026-07-02 | 06:57 | The xx | Intro | Unknown | https://www.deezer.com/track/3787855 |
+| 2026-07-02 | 06:51 | BADBADNOTGOOD | In Your Eyes (feat. Charlotte Day Wilson) | Unknown | https://www.deezer.com/track/1642086352 |
+| 2026-07-02 | 06:40 | Quincy Jones | Summer In The City | Unknown | https://www.deezer.com/track/3051178 |
+| 2026-07-02 | 06:34 | Mitski | Bug Like An Angel | Unknown | https://www.deezer.com/track/2365569435 |
+| 2026-07-02 | 06:04 | Steve Lacy | Playground | Unknown | https://www.deezer.com/track/1873714617 |
+| 2026-07-02 | 05:43 | Debbie Harry & Iggy Pop | Well Did You Evah! | Unknown | https://www.deezer.com/track/1020898872 |
+| 2026-07-02 | 05:39 | Blondie | Union City Blue | Unknown | https://www.deezer.com/track/3151393 |
+| 2026-07-02 | 05:20 | Daniel Avery | Lone Swordsman | Unknown | https://www.deezer.com/track/1065156552 |
+| 2026-07-02 | 05:14 | miaw | Walmart | Unknown | https://www.deezer.com/track/4056005771 |
+| 2026-07-02 | 05:11 | The Go! Team | Bottle Rocket | Unknown | https://www.deezer.com/track/29681231 |
+| 2026-07-02 | 05:01 | Blur | Beetlebum | Unknown | https://www.deezer.com/track/44133761 |
+| 2026-07-02 | 04:14 | The Meters | Hey Pocky A-Way (2002 Remaster) | Unknown | https://www.deezer.com/track/735704 |
+| 2026-07-02 | 03:47 | Rodriguez | Crucify Your Mind | Unknown | https://www.deezer.com/track/540508992 |
+| 2026-07-02 | 03:20 | Bloc Party | Little Thoughts | Unknown | https://www.deezer.com/track/14615573 |
+| 2026-07-02 | 03:06 | Harvey Danger | Flagpole Sitta | Unknown | https://www.deezer.com/track/2498436621 |
+| 2026-07-02 | 02:52 | Frank Ocean | Swim Good | Unknown | https://www.deezer.com/track/14145916 |
+| 2026-07-02 | 02:48 | The Kinks | Till The End Of The Day | Unknown | https://www.deezer.com/track/3786364012 |
+| 2026-07-02 | 02:39 | Patrick Wolf | The Magic Position | Unknown | https://www.deezer.com/track/2237783397 |
+| 2026-07-02 | 02:34 | Iggy Pop | The Passenger | Unknown | https://www.deezer.com/track/3121463 |
+| 2026-07-02 | 01:58 | The Kingsmen | Louie Louie | Unknown | https://www.deezer.com/track/1601661 |
+| 2026-07-02 | 01:49 | The Delgados | Coming In From The Cold | Unknown | https://www.deezer.com/track/105098884 |
+| 2026-07-02 | 01:43 | Working Men’s Club | John Cooper Clarke | Unknown | https://www.deezer.com/track/889463272 |
+| 2026-07-02 | 01:28 | KAYTRANADA & Syd | You're The One | Unknown | https://www.deezer.com/track/138540041 |
+| 2026-07-02 | 01:13 | Cocteau Twins | Bluebeard | Unknown | https://www.deezer.com/track/2594491072 |
+| 2026-07-02 | 00:54 | Hot Chip | Flutes | Unknown | https://www.deezer.com/track/34945401 |
